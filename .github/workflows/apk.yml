@@ -1,0 +1,60 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.7'
+      - name: Bundle the web build into the app
+        run: |
+          W=android/app/src/main/assets/www
+          rm -rf "$W" && mkdir -p "$W"
+          cp -r index.html css js data assets vendor "$W/"
+      - uses: android-actions/setup-android@v3
+        with:
+          packages: 'platforms;android-34 build-tools;34.0.0 platform-tools'
+      - name: Build APK
+        env:
+          VERSION_CODE: ${{ github.run_number }}
+        run: |
+          set -o pipefail
+          if ! gradle -p android assembleRelease --no-daemon --stacktrace 2>&1 | tee build.log; then
+            grep -E -A2 "error|Error|FAILURE|What went wrong|Could not|Build file|line [0-9]" build.log | grep -v "^\s*at " | tail -30 | while IFS= read -r l; do echo "::error::$l"; done
+            exit 1
+          fi
+      - name: Rename
+        run: cp android/app/build/outputs/apk/release/app-release.apk Line-Tangle.apk && ls -la Line-Tangle.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Line-Tangle-apk
+          path: Line-Tangle.apk
+      - name: Publish to the "latest" release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Line Tangle (latest build)
+          body: |
+            Android build of the HTML5 port, commit ${{ github.sha }} (build ${{ github.run_number }}).
+            Download Line-Tangle.apk and install it (allow installing from unknown sources).
+          files: Line-Tangle.apk
+          make_latest: true
+          prerelease: false
