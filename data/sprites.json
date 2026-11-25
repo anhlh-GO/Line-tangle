@@ -1,0 +1,3086 @@
+{
+"Avatar_00": {
+"f": "Avatar_00.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_07": {
+"f": "Avatar_07.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarFrame_03": {
+"f": "AvatarFrame_03.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_05": {
+"f": "Avatar_05.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_01": {
+"f": "Avatar_01.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_03": {
+"f": "Avatar_03.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarFrame_04": {
+"f": "AvatarFrame_04.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarFrame_02": {
+"f": "AvatarFrame_02.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_06": {
+"f": "Avatar_06.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_02": {
+"f": "Avatar_02.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarFrame_01": {
+"f": "AvatarFrame_01.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Avatar_04": {
+"f": "Avatar_04.webp",
+"w": 199,
+"h": 199,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarFrame_05": {
+"f": "AvatarFrame_05.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"pm2": {
+"f": "pm2.webp",
+"w": 240,
+"h": 240,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"pm3": {
+"f": "pm3.webp",
+"w": 240,
+"h": 240,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"pm1": {
+"f": "pm1.webp",
+"w": 240,
+"h": 240,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"pm4": {
+"f": "pm4.webp",
+"w": 240,
+"h": 240,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"pm5": {
+"f": "pm5.webp",
+"w": 240,
+"h": 240,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Effects-flow01": {
+"f": "Effects-flow01.webp",
+"w": 70,
+"h": 70,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 140.0
+},
+"Sp_glow19": {
+"f": "Sp_glow19.webp",
+"w": 122,
+"h": 122,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 140.0
+},
+"Effects-color_flame01": {
+"f": "Effects-color_flame01.webp",
+"w": 63,
+"h": 70,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 140.0
+},
+"Effects-color_smoke_03": {
+"f": "Effects-color_smoke_03.webp",
+"w": 125,
+"h": 117,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 140.0
+},
+"Com_Panel_Bg": {
+"f": "Com_Panel_Bg.webp",
+"w": 911,
+"h": 1020,
+"b": [
+128,
+153,
+128,
+176
+],
+"ppu": 100.0
+},
+"Com_Btn_04": {
+"f": "Com_Btn_04.webp",
+"w": 357,
+"h": 166,
+"b": [
+69,
+70,
+64,
+58
+],
+"ppu": 100.0
+},
+"Com_Ad_Blue": {
+"f": "Com_Ad_Blue.webp",
+"w": 90,
+"h": 61,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Ad_Green": {
+"f": "Com_Ad_Green.webp",
+"w": 77,
+"h": 51,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_CloseBtn": {
+"f": "Com_CloseBtn.webp",
+"w": 122,
+"h": 126,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Panel_Content": {
+"f": "Com_Panel_Content.webp",
+"w": 656,
+"h": 421,
+"b": [
+82,
+84,
+87,
+87
+],
+"ppu": 100.0
+},
+"Com_Btn_01": {
+"f": "Com_Btn_01.webp",
+"w": 357,
+"h": 166,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Coin": {
+"f": "Com_Coin.webp",
+"w": 83,
+"h": 85,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Btn_03": {
+"f": "Com_Btn_03.webp",
+"w": 357,
+"h": 166,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Coin_Bg": {
+"f": "Com_Coin_Bg.webp",
+"w": 203,
+"h": 68,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Com_Btn_02": {
+"f": "Com_Btn_02.webp",
+"w": 357,
+"h": 166,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Tx_xingxing72": {
+"f": "Tx_xingxing72.webp",
+"w": 29,
+"h": 30,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"mianpian": {
+"f": "mianpian.webp",
+"w": 200,
+"h": 200,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_01gray": {
+"f": "collection_003_01gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_01gray": {
+"f": "collection_002_01gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_03": {
+"f": "collection_001_03.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_04gray": {
+"f": "collection_003_04gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_02gray": {
+"f": "collection_001_02gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_firebig": {
+"f": "icon_firebig.webp",
+"w": 572,
+"h": 541,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_01": {
+"f": "collection_001_01.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_05": {
+"f": "collection_002_05.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_10": {
+"f": "collection_003_10.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Content_time": {
+"f": "Content_time.webp",
+"w": 282,
+"h": 68,
+"b": [
+32,
+32,
+32,
+32
+],
+"ppu": 100.0
+},
+"collection_003_10gray": {
+"f": "collection_003_10gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_05gray": {
+"f": "collection_003_05gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Progress_04": {
+"f": "Progress_04.webp",
+"w": 674,
+"h": 87,
+"b": [
+42,
+42,
+42,
+42
+],
+"ppu": 100.0
+},
+"Progress_03": {
+"f": "Progress_03.webp",
+"w": 673,
+"h": 87,
+"b": [
+42,
+42,
+42,
+42
+],
+"ppu": 100.0
+},
+"collection_003_01": {
+"f": "collection_003_01.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_09gray": {
+"f": "collection_003_09gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"line": {
+"f": "line.webp",
+"w": 433,
+"h": 5,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_03": {
+"f": "collection_003_03.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_03": {
+"f": "collection_002_03.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_06gray": {
+"f": "collection_003_06gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_achieve": {
+"f": "Panel_achieve.webp",
+"w": 292,
+"h": 313,
+"b": [
+40,
+40,
+40,
+40
+],
+"ppu": 100.0
+},
+"collection_003_12": {
+"f": "collection_003_12.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_11gray": {
+"f": "collection_003_11gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_02": {
+"f": "collection_002_02.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_12gray": {
+"f": "collection_003_12gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_03gray": {
+"f": "collection_001_03gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_09": {
+"f": "collection_003_09.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_02": {
+"f": "collection_001_02.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_nosign": {
+"f": "icon_nosign.webp",
+"w": 73,
+"h": 73,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_07": {
+"f": "collection_003_07.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_05gray": {
+"f": "collection_002_05gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_08": {
+"f": "collection_003_08.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_02gray": {
+"f": "collection_003_02gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_07gray": {
+"f": "collection_003_07gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_02gray": {
+"f": "collection_002_02gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_03gray": {
+"f": "collection_003_03gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_001_01gray": {
+"f": "collection_001_01gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_01": {
+"f": "collection_002_01.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_06": {
+"f": "collection_003_06.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_04": {
+"f": "collection_003_04.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_11": {
+"f": "collection_003_11.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_05": {
+"f": "collection_003_05.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Content_level": {
+"f": "Content_level.webp",
+"w": 179,
+"h": 73,
+"b": [
+36,
+34,
+36,
+34
+],
+"ppu": 100.0
+},
+"collection_003_02": {
+"f": "collection_003_02.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_003_08gray": {
+"f": "collection_003_08gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_04gray": {
+"f": "collection_002_04gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_04": {
+"f": "collection_002_04.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"collection_002_03gray": {
+"f": "collection_002_03gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FlameColored": {
+"f": "FlameColored.webp",
+"w": 344,
+"h": 392,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FlameInactive": {
+"f": "FlameInactive.webp",
+"w": 344,
+"h": 392,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Successful！": {
+"f": "Successful！.webp",
+"w": 634,
+"h": 87,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropContent_01": {
+"f": "PropUI_PropContent_01.webp",
+"w": 247,
+"h": 287,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"LevelFailed！": {
+"f": "LevelFailed！.webp",
+"w": 687,
+"h": 88,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FailUI_Title_Cn": {
+"f": "FailUI_Title_Cn.webp",
+"w": 504,
+"h": 123,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"WinUI_Title_Cn": {
+"f": "WinUI_Title_Cn.webp",
+"w": 491,
+"h": 125,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropContent_03": {
+"f": "PropUI_PropContent_03.webp",
+"w": 178,
+"h": 219,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropIcon_04": {
+"f": "PropUI_PropIcon_04.webp",
+"w": 98,
+"h": 116,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropContent_04": {
+"f": "PropUI_PropContent_04.webp",
+"w": 187,
+"h": 218,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GM_Entry": {
+"f": "GM_Entry.webp",
+"w": 106,
+"h": 106,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_point": {
+"f": "icon_point.webp",
+"w": 37,
+"h": 37,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_Revive_WinStreak": {
+"f": "PropUI_Revive_WinStreak.webp",
+"w": 553,
+"h": 307,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropIcon_03": {
+"f": "PropUI_PropIcon_03.webp",
+"w": 88,
+"h": 111,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GameUI_Energy1": {
+"f": "GameUI_Energy1.webp",
+"w": 63,
+"h": 54,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_yinying": {
+"f": "leagues_yinying.webp",
+"w": 185,
+"h": 33,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_ball": {
+"f": "icon_ball.webp",
+"w": 79,
+"h": 78,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_01": {
+"f": "leagues_01.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"btn_off": {
+"f": "btn_off.webp",
+"w": 114,
+"h": 52,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_arrow": {
+"f": "icon_arrow.webp",
+"w": 26,
+"h": 31,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"LanguagePanelBackground": {
+"f": "LanguagePanelBackground.webp",
+"w": 938,
+"h": 1016,
+"b": [
+96,
+96,
+96,
+150
+],
+"ppu": 100.0
+},
+"btn_circle": {
+"f": "btn_circle.webp",
+"w": 44,
+"h": 44,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_sound": {
+"f": "icon_sound.webp",
+"w": 56,
+"h": 46,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_music": {
+"f": "icon_music.webp",
+"w": 46,
+"h": 53,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_language": {
+"f": "icon_language.webp",
+"w": 50,
+"h": 50,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"btn_on": {
+"f": "btn_on.webp",
+"w": 114,
+"h": 52,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_vibrations": {
+"f": "icon_vibrations.webp",
+"w": 64,
+"h": 53,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"shouzhi": {
+"f": "shouzhi.webp",
+"w": 90,
+"h": 97,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"UISprite": {
+"f": "UISprite.webp",
+"w": 32,
+"h": 32,
+"b": [
+10,
+10,
+10,
+10
+],
+"ppu": 200.0
+},
+"collection_002_06gray": {
+"f": "collection_002_06gray.webp",
+"w": 300,
+"h": 300,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_ChooseBg_Right": {
+"f": "AvatarUI_ChooseBg_Right.webp",
+"w": 262,
+"h": 113,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_Edit_Btn": {
+"f": "AvatarUI_Edit_Btn.webp",
+"w": 92,
+"h": 94,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_UnlockBtn_03": {
+"f": "AvatarUI_UnlockBtn_03.webp",
+"w": 217,
+"h": 98,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_ChooseBtn_Right": {
+"f": "AvatarUI_ChooseBtn_Right.webp",
+"w": 262,
+"h": 113,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_UnlockBtn_01": {
+"f": "AvatarUI_UnlockBtn_01.webp",
+"w": 217,
+"h": 98,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_ChooseBtn_Left": {
+"f": "AvatarUI_ChooseBtn_Left.webp",
+"w": 262,
+"h": 113,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_PlayerName_Bg": {
+"f": "AvatarUI_PlayerName_Bg.webp",
+"w": 398,
+"h": 100,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_Check": {
+"f": "AvatarUI_Check.webp",
+"w": 72,
+"h": 57,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_Item_Mask": {
+"f": "AvatarUI_Item_Mask.webp",
+"w": 213,
+"h": 216,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_Item_Bg": {
+"f": "AvatarUI_Item_Bg.webp",
+"w": 802,
+"h": 772,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_ChooseBg_Left": {
+"f": "AvatarUI_ChooseBg_Left.webp",
+"w": 262,
+"h": 113,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"AvatarUI_UnlockBtn_02": {
+"f": "AvatarUI_UnlockBtn_02.webp",
+"w": 217,
+"h": 98,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Progress_01": {
+"f": "Progress_01.webp",
+"w": 494,
+"h": 49,
+"b": [
+24,
+24,
+24,
+24
+],
+"ppu": 100.0
+},
+"Progress_02": {
+"f": "Progress_02.webp",
+"w": 494,
+"h": 49,
+"b": [
+24,
+24,
+24,
+24
+],
+"ppu": 100.0
+},
+"icon_left": {
+"f": "icon_left.webp",
+"w": 99,
+"h": 99,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_select": {
+"f": "icon_select.webp",
+"w": 82,
+"h": 82,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_right": {
+"f": "icon_right.webp",
+"w": 99,
+"h": 99,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_wancheng": {
+"f": "icon_wancheng.webp",
+"w": 66,
+"h": 66,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_riqi": {
+"f": "icon_riqi.webp",
+"w": 66,
+"h": 66,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_SelfItem_Bg": {
+"f": "RankUI_SelfItem_Bg.webp",
+"w": 1014,
+"h": 177,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Item_Bg": {
+"f": "RankUI_Item_Bg.webp",
+"w": 1014,
+"h": 177,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Bg": {
+"f": "Main_Bg.webp",
+"w": 60,
+"h": 60,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Item_Trophy": {
+"f": "RankUI_Item_Trophy.webp",
+"w": 109,
+"h": 103,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Item_ScoreBg": {
+"f": "RankUI_Item_ScoreBg.webp",
+"w": 224,
+"h": 83,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_SelfItem_ScoreBg": {
+"f": "RankUI_SelfItem_ScoreBg.webp",
+"w": 221,
+"h": 73,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"UIMask": {
+"f": "UIMask.webp",
+"w": 32,
+"h": 32,
+"b": [
+10,
+10,
+10,
+10
+],
+"ppu": 200.0
+},
+"RankUI_Tab_Bg": {
+"f": "RankUI_Tab_Bg.webp",
+"w": 1080,
+"h": 34,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Tab_Off": {
+"f": "RankUI_Tab_Off.webp",
+"w": 233,
+"h": 73,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Medal_Silver": {
+"f": "RankUI_Medal_Silver.webp",
+"w": 71,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Tab_On": {
+"f": "RankUI_Tab_On.webp",
+"w": 233,
+"h": 73,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Medal_Bronze": {
+"f": "RankUI_Medal_Bronze.webp",
+"w": 71,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Medal_Gold": {
+"f": "RankUI_Medal_Gold.webp",
+"w": 72,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FailUI_Road2": {
+"f": "FailUI_Road2.webp",
+"w": 97,
+"h": 97,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FailUI_Content": {
+"f": "FailUI_Content.webp",
+"w": 420,
+"h": 333,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FailUI_ProgressBubble_Bg": {
+"f": "FailUI_ProgressBubble_Bg.webp",
+"w": 124,
+"h": 131,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"FailUI_Road": {
+"f": "FailUI_Road.webp",
+"w": 811,
+"h": 66,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"WinUI_WinStreak_Frame": {
+"f": "WinUI_WinStreak_Frame.webp",
+"w": 814,
+"h": 87,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"WinUI_WinStreak_Progress": {
+"f": "WinUI_WinStreak_Progress.webp",
+"w": 805,
+"h": 77,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"WinUI_WinStreakPop_Bg": {
+"f": "WinUI_WinStreakPop_Bg.webp",
+"w": 195,
+"h": 115,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"WinUI_Content": {
+"f": "WinUI_Content.webp",
+"w": 474,
+"h": 365,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"color_panel2": {
+"f": "color_panel2.webp",
+"w": 331,
+"h": 151,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GameUI_Energy2": {
+"f": "GameUI_Energy2.webp",
+"w": 63,
+"h": 54,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"color_panel": {
+"f": "color_panel.webp",
+"w": 331,
+"h": 151,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"color_yellow": {
+"f": "color_yellow.webp",
+"w": 91,
+"h": 91,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Superhard_panel": {
+"f": "Superhard_panel.webp",
+"w": 822,
+"h": 270,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_color": {
+"f": "icon_color.webp",
+"w": 67,
+"h": 66,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Hard_panel": {
+"f": "Hard_panel.webp",
+"w": 822,
+"h": 270,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Progress_1": {
+"f": "Progress_1.webp",
+"w": 922,
+"h": 11,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"HintAdBadge": {
+"f": "HintAdBadge.webp",
+"w": 62,
+"h": 32,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GameUI_SettingBtn拷贝": {
+"f": "GameUI_SettingBtn拷贝.webp",
+"w": 106,
+"h": 106,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_super": {
+"f": "Panel_super.webp",
+"w": 822,
+"h": 270,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"img_v3_0213t_b197de75-afae-4f7a-a56e-f1fe00c05c5g": {
+"f": "img_v3_0213t_b197de75-afae-4f7a-a56e-f1fe00c05c5g.webp",
+"w": 56,
+"h": 56,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"color_white": {
+"f": "color_white.webp",
+"w": 91,
+"h": 91,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_guanhou": {
+"f": "Panel_guanhou.webp",
+"w": 822,
+"h": 296,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GameUI_Veryhard": {
+"f": "GameUI_Veryhard.webp",
+"w": 366,
+"h": 135,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Progress_2": {
+"f": "Progress_2.webp",
+"w": 922,
+"h": 11,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_PropIcon_01拷贝": {
+"f": "PropUI_PropIcon_01拷贝.webp",
+"w": 117,
+"h": 118,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"InputFieldBackground": {
+"f": "InputFieldBackground.webp",
+"w": 32,
+"h": 32,
+"b": [
+10,
+10,
+10,
+10
+],
+"ppu": 200.0
+},
+"Background": {
+"f": "Background.webp",
+"w": 32,
+"h": 32,
+"b": [
+10,
+10,
+10,
+10
+],
+"ppu": 200.0
+},
+"icon_tab2": {
+"f": "icon_tab2.webp",
+"w": 34,
+"h": 34,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rank_paizi": {
+"f": "Rank_paizi.webp",
+"w": 656,
+"h": 225,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_sanjiao": {
+"f": "icon_sanjiao.webp",
+"w": 41,
+"h": 31,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_tab1": {
+"f": "icon_tab1.webp",
+"w": 34,
+"h": 34,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"btn_shuoming": {
+"f": "btn_shuoming.webp",
+"w": 52,
+"h": 51,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rank_No2": {
+"f": "Rank_No2.webp",
+"w": 71,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"xian": {
+"f": "xian.webp",
+"w": 861,
+"h": 4,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_sanjiao1": {
+"f": "icon_sanjiao1.webp",
+"w": 41,
+"h": 31,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rank_No3": {
+"f": "Rank_No3.webp",
+"w": 71,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_time": {
+"f": "icon_time.webp",
+"w": 40,
+"h": 40,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"panel_qiu": {
+"f": "panel_qiu.webp",
+"w": 453,
+"h": 201,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rank_No": {
+"f": "Rank_No.webp",
+"w": 463,
+"h": 214,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rank_No1": {
+"f": "Rank_No1.webp",
+"w": 72,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_lock": {
+"f": "icon_lock.webp",
+"w": 64,
+"h": 71,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Nav_Bg": {
+"f": "Main_Nav_Bg.webp",
+"w": 93,
+"h": 213,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Setting_Icon": {
+"f": "Main_Setting_Icon.webp",
+"w": 73,
+"h": 69,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_service": {
+"f": "icon_service.webp",
+"w": 51,
+"h": 51,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Collect_Icon": {
+"f": "Main_Collect_Icon.webp",
+"w": 79,
+"h": 75,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Home_Icon": {
+"f": "Main_Home_Icon.webp",
+"w": 85,
+"h": 69,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_mainui": {
+"f": "Panel_mainui.webp",
+"w": 989,
+"h": 260,
+"b": [
+50,
+50,
+50,
+50
+],
+"ppu": 100.0
+},
+"icon_feedback": {
+"f": "icon_feedback.webp",
+"w": 51,
+"h": 51,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"MainUI_Nav_Selector": {
+"f": "MainUI_Nav_Selector.webp",
+"w": 213,
+"h": 88,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_privacy": {
+"f": "icon_privacy.webp",
+"w": 45,
+"h": 51,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Challenge_Icon": {
+"f": "Main_Challenge_Icon.webp",
+"w": 76,
+"h": 77,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_GDPR": {
+"f": "icon_GDPR.webp",
+"w": 52,
+"h": 52,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_05": {
+"f": "leagues_05.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Bottom1": {
+"f": "Main_Bottom1.webp",
+"w": 221,
+"h": 221,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_03": {
+"f": "leagues_03.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"MainUI_ShareBtn": {
+"f": "MainUI_ShareBtn.webp",
+"w": 176,
+"h": 189,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_fire": {
+"f": "icon_fire.webp",
+"w": 67,
+"h": 67,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_SignInBtn": {
+"f": "Main_SignInBtn.webp",
+"w": 194,
+"h": 196,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Slider_Progress": {
+"f": "Main_Slider_Progress.webp",
+"w": 34,
+"h": 63,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"组3": {
+"f": "组3.webp",
+"w": 528,
+"h": 88,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_Bottom": {
+"f": "Main_Bottom.webp",
+"w": 231,
+"h": 231,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_02": {
+"f": "leagues_02.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_Coin_Icon": {
+"f": "SignInUI_Coin_Icon.webp",
+"w": 118,
+"h": 111,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_StartBtn": {
+"f": "Main_StartBtn.webp",
+"w": 594,
+"h": 170,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_06": {
+"f": "leagues_06.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"GameUI_SettingBtn": {
+"f": "GameUI_SettingBtn.webp",
+"w": 95,
+"h": 95,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"MainUI_ShortCutBtn": {
+"f": "MainUI_ShortCutBtn.webp",
+"w": 176,
+"h": 190,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_jiangbei": {
+"f": "icon_jiangbei.webp",
+"w": 239,
+"h": 203,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Main_StartBtn2": {
+"f": "Main_StartBtn2.webp",
+"w": 594,
+"h": 170,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"MainUI_SidebarBtn": {
+"f": "MainUI_SidebarBtn.webp",
+"w": 200,
+"h": 200,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_jiesuan2": {
+"f": "icon_jiesuan2.webp",
+"w": 176,
+"h": 184,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_firegray": {
+"f": "icon_firegray.webp",
+"w": 67,
+"h": 67,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_mainui2": {
+"f": "Panel_mainui2.webp",
+"w": 225,
+"h": 81,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"leagues_04": {
+"f": "leagues_04.webp",
+"w": 400,
+"h": 400,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"ReviveProgressCapsule": {
+"f": "ReviveProgressCapsule.webp",
+"w": 200,
+"h": 100,
+"b": [
+50,
+0,
+50,
+0
+],
+"ppu": 100.0
+},
+"Panel_revive": {
+"f": "Panel_revive.webp",
+"w": 297,
+"h": 248,
+"b": [
+80,
+80,
+80,
+80
+],
+"ppu": 100.0
+},
+"ReviveProgressMarker": {
+"f": "ReviveProgressMarker.webp",
+"w": 128,
+"h": 168,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_WinStreakPop_Bg": {
+"f": "PropUI_WinStreakPop_Bg.webp",
+"w": 175,
+"h": 103,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"PropUI_Revive_Heart": {
+"f": "PropUI_Revive_Heart.webp",
+"w": 285,
+"h": 226,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"img_v3_02150_d18877fd-18fb-4621-b09c-652ca5a30acg": {
+"f": "img_v3_02150_d18877fd-18fb-4621-b09c-652ca5a30acg.webp",
+"w": 285,
+"h": 226,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"content_line": {
+"f": "content_line.webp",
+"w": 730,
+"h": 4,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Knob": {
+"f": "Knob.webp",
+"w": 40,
+"h": 40,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 200.0
+},
+"SettingUI_Divider": {
+"f": "SettingUI_Divider.webp",
+"w": 100,
+"h": 50,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Rounded Rectangle - 256px": {
+"f": "Rounded Rectangle - 256px.webp",
+"w": 64,
+"h": 64,
+"b": [
+32,
+32,
+32,
+32
+],
+"ppu": 25.0
+},
+"SettingUI_Feedback": {
+"f": "SettingUI_Feedback.webp",
+"w": 54,
+"h": 57,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"level_nightmare": {
+"f": "level_nightmare.webp",
+"w": 115,
+"h": 115,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_zhunxin": {
+"f": "icon_zhunxin.webp",
+"w": 52,
+"h": 52,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_tishi": {
+"f": "icon_tishi.webp",
+"w": 46,
+"h": 53,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Progress_jindu": {
+"f": "Progress_jindu.webp",
+"w": 946,
+"h": 65,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_win": {
+"f": "Panel_win.webp",
+"w": 911,
+"h": 932,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Panel_win2": {
+"f": "Panel_win2.webp",
+"w": 773,
+"h": 149,
+"b": [
+34,
+34,
+34,
+34
+],
+"ppu": 100.0
+},
+"Level_Hard": {
+"f": "Level_Hard.webp",
+"w": 100,
+"h": 101,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"img_v3_0217a_c8d80fe4-e25f-4a9c-9818-56b81ddfc21g": {
+"f": "img_v3_0217a_c8d80fe4-e25f-4a9c-9818-56b81ddfc21g.webp",
+"w": 39,
+"h": 39,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Level_Veryhard": {
+"f": "Level_Veryhard.webp",
+"w": 100,
+"h": 101,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"bk_star_yellow": {
+"f": "bk_star_yellow.webp",
+"w": 1080,
+"h": 1080,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"icon_home": {
+"f": "icon_home.webp",
+"w": 78,
+"h": 70,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"Level_putong": {
+"f": "Level_putong.webp",
+"w": 100,
+"h": 101,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"shuxian": {
+"f": "shuxian.webp",
+"w": 4,
+"h": 87,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"VictoryHome": {
+"f": "VictoryHome.webp",
+"w": 91,
+"h": 83,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"ShopUI_Item_Bg": {
+"f": "ShopUI_Item_Bg.webp",
+"w": 999,
+"h": 195,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"ShopUI_title2": {
+"f": "ShopUI_title2.webp",
+"w": 354,
+"h": 70,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"RankUI_Title_Banner": {
+"f": "RankUI_Title_Banner.webp",
+"w": 154,
+"h": 322,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SidebarUI_Content": {
+"f": "SidebarUI_Content.webp",
+"w": 730,
+"h": 569,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SidebarUI_Content_Bg": {
+"f": "SidebarUI_Content_Bg.webp",
+"w": 277,
+"h": 200,
+"b": [
+54,
+55,
+56,
+53
+],
+"ppu": 100.0
+},
+"SignInUI_revive_Icon": {
+"f": "SignInUI_revive_Icon.webp",
+"w": 120,
+"h": 120,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_Item_Frame": {
+"f": "SignInUI_Item_Frame.webp",
+"w": 289,
+"h": 289,
+"b": [
+55,
+58,
+62,
+56
+],
+"ppu": 100.0
+},
+"SignInUI_Check": {
+"f": "SignInUI_Check.webp",
+"w": 102,
+"h": 80,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_tip_Icon": {
+"f": "SignInUI_tip_Icon.webp",
+"w": 120,
+"h": 120,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_RoundRect": {
+"f": "SignInUI_RoundRect.webp",
+"w": 128,
+"h": 128,
+"b": [
+48,
+48,
+48,
+48
+],
+"ppu": 100.0
+},
+"SignInUI_Item_Mask": {
+"f": "SignInUI_Item_Mask.webp",
+"w": 260,
+"h": 279,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_Item_Bg": {
+"f": "SignInUI_Item_Bg.webp",
+"w": 260,
+"h": 279,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+},
+"SignInUI_Item_Bg2": {
+"f": "SignInUI_Item_Bg2.webp",
+"w": 830,
+"h": 279,
+"b": [
+0,
+0,
+0,
+0
+],
+"ppu": 100.0
+}
+}

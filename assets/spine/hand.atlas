@@ -1,0 +1,12 @@
+hand.png
+size:512,256
+filter:Linear,Linear
+dian
+bounds:2,23,55,55
+hand
+bounds:2,80,146,156
+jt
+bounds:150,2,102,127
+rotate:90
+quan
+bounds:150,106,130,130

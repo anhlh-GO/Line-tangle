@@ -1,0 +1,1357 @@
+{
+"1": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"image.gamefail.ui.title": {
+"en": "FailUI_Title_En",
+"zh": "FailUI_Title_Cn",
+"t": 2
+},
+"image.gamesuccess.ui.title": {
+"en": "",
+"zh": "",
+"t": 2
+},
+"ui.avatar.frame_tab": {
+"en": "Avatar Frame",
+"zh": "头像框",
+"t": 0
+},
+"ui.avatar.title": {
+"en": "Avatar",
+"zh": "头像",
+"t": 0
+},
+"ui.common.back": {
+"en": "Back",
+"zh": "返回",
+"t": 0
+},
+"ui.common.back_home": {
+"en": "Back to Home",
+"zh": "返回主页",
+"t": 0
+},
+"ui.common.claim": {
+"en": "Claim",
+"zh": "领取",
+"t": 0
+},
+"ui.common.claim_direct": {
+"en": "Claim Now",
+"zh": "直接领取",
+"t": 0
+},
+"ui.common.claim_double": {
+"en": "2x Claim",
+"zh": "双倍领取",
+"t": 0
+},
+"ui.common.confirm": {
+"en": "OK",
+"zh": "确定",
+"t": 0
+},
+"ui.common.continue_game": {
+"en": "Continue",
+"zh": "继续游戏",
+"t": 0
+},
+"ui.common.free": {
+"en": "Free",
+"zh": "免费",
+"t": 0
+},
+"ui.common.loading": {
+"en": "Loading",
+"zh": "正在加载",
+"t": 0
+},
+"ui.common.restart": {
+"en": "Restart",
+"zh": "重新开始",
+"t": 0
+},
+"ui.common.save": {
+"en": "Save",
+"zh": "保存",
+"t": 0
+},
+"ui.common.tips": {
+"en": "Hint",
+"zh": "提示",
+"t": 0
+},
+"ui.main.add_shortcut": {
+"en": "Add to Home Screen",
+"zh": "添加桌面",
+"t": 0
+},
+"ui.main.challenge_mode": {
+"en": "Challenge Mode",
+"zh": "挑战模式",
+"t": 0
+},
+"ui.main.collect": {
+"en": "Collect",
+"zh": "收集",
+"t": 0
+},
+"ui.main.share": {
+"en": "Share",
+"zh": "分享",
+"t": 0
+},
+"ui.main.sign_in": {
+"en": "Check-in",
+"zh": "签到",
+"t": 0
+},
+"ui.main.start_game": {
+"en": "Play",
+"zh": "开始",
+"t": 0
+},
+"ui.permission.avatar_name_request": {
+"en": "We need permission to access \nyour profile picture and nickname.",
+"zh": "我们想要获取权限\n来获得您的头像和昵称",
+"t": 0
+},
+"ui.permission.request": {
+"en": "Request Permission",
+"zh": "申请权限",
+"t": 0
+},
+"ui.rank.national": {
+"en": "National",
+"zh": "全国",
+"t": 0
+},
+"ui.rank.no_permission": {
+"en": "No Permission",
+"zh": "无权限",
+"t": 0
+},
+"ui.rank.province": {
+"en": "Regional",
+"zh": "省内",
+"t": 0
+},
+"ui.rank.title": {
+"en": "Leaderboard",
+"zh": "排行榜",
+"t": 0
+},
+"ui.rank.weekly": {
+"en": "Weekly",
+"zh": "周榜",
+"t": 0
+},
+"ui.setting.back_home": {
+"en": "Home",
+"zh": "回到主页",
+"t": 0
+},
+"ui.setting.feedback": {
+"en": "Feedback",
+"zh": "反馈",
+"t": 0
+},
+"ui.setting.gdpr": {
+"en": "GDPR",
+"zh": "GDPR",
+"t": 0
+},
+"ui.setting.privacy": {
+"en": "Privacy Policy",
+"zh": "隐私政策",
+"t": 0
+},
+"ui.setting.title": {
+"en": "Settings",
+"zh": "设置",
+"t": 0
+},
+"ui.setting.user_agreement": {
+"en": "Terms of Service",
+"zh": "用户协议",
+"t": 0
+},
+"ui.shop.daily_gift": {
+"en": "Daily Gift",
+"zh": "每日礼品",
+"t": 0
+},
+"ui.shop.sold_out": {
+"en": "Purchased",
+"zh": "已购买",
+"t": 0
+},
+"ui.shop.title": {
+"en": "Shop",
+"zh": "商店",
+"t": 0
+},
+"ui.side_bar.come_tomorrow": {
+"en": "Come Back Tomorrow",
+"zh": "明天再来",
+"t": 0
+},
+"ui.side_bar.go_add": {
+"en": "Go to Add",
+"zh": "前往添加",
+"t": 0
+},
+"ui.side_bar.title": {
+"en": "Sidebar",
+"zh": "侧边栏",
+"t": 0
+},
+"ui.sign_in.title": {
+"en": "Daily Rewards",
+"zh": "每日签到",
+"t": 0
+},
+"ui.common.not_enough_coin": {
+"en": "Not enough coins",
+"zh": "金币不足",
+"t": 0
+},
+"ui.common.resource_loading": {
+"en": "Loading assets, please wait...",
+"zh": "资源加载中，请稍后",
+"t": 0
+},
+"ui.common.win_streak_count": {
+"en": "{0}-Win Streak",
+"zh": "{0}连胜",
+"t": 0
+},
+"ui.game.level_index": {
+"en": "Level {0}",
+"zh": "第{0}关",
+"t": 0
+},
+"ui.reward.got_reward": {
+"en": "You got {0}!",
+"zh": "恭喜获得{0}",
+"t": 0
+},
+"ui.prop.use_directly": {
+"en": "Use Item Now",
+"zh": "直接使用道具",
+"t": 0
+},
+"ui.prop.used": {
+"en": "Use Item: {0}",
+"zh": "使用道具：{0}",
+"t": 0
+},
+"ui.avatar.unlock.video": {
+"en": "Watch Ad to Unlock",
+"zh": "视频解锁",
+"t": 0
+},
+"ui.avatar.unlock.activity": {
+"en": "Unlock via Event",
+"zh": "活动解锁",
+"t": 0
+},
+"ui.avatar.unlock.locked": {
+"en": "Locked",
+"zh": "未解锁",
+"t": 0
+},
+"ui.rank.default_player_name": {
+"en": "Player",
+"zh": "玩家",
+"t": 0
+},
+"ui.rank.score_level": {
+"en": "Level {0}",
+"zh": "{0}关",
+"t": 0
+},
+"ui.rank.not_listed": {
+"en": "Not Ranked",
+"zh": "未上榜",
+"t": 0
+},
+"ui.sign_in.day_index": {
+"en": "Day {0}",
+"zh": "第{0}天",
+"t": 0
+},
+"ui.main.add_shortcut_success": {
+"en": "Added to Home Screen",
+"zh": "添加桌面成功",
+"t": 0
+},
+"ui.gm.clear_cloud_save_restart": {
+"en": "Cloud save cleared. Please restart the game.",
+"zh": "已清理云存档，请重启游戏",
+"t": 0
+},
+"ui.win_streak_tips.restart_loss_progress": {
+"en": "Restarting will lose your progress.",
+"zh": "重新开始将会失去游戏进度",
+"t": 0
+},
+"ui.win_streak_tips.exit_loss_progress": {
+"en": "Exiting will lose your progress.",
+"zh": "退出将会失去游戏进度",
+"t": 0
+},
+"ui.main.navigation.shop": {
+"en": "Shop",
+"zh": "商店",
+"t": 0
+},
+"ui.main.navigation.home": {
+"en": "Home",
+"zh": "主页",
+"t": 0
+},
+"ui.main.navigation.rank": {
+"en": "Leaderboard",
+"zh": "排行",
+"t": 0
+},
+"config.prop.prop1.name": {
+"en": "Item 1",
+"zh": "道具1",
+"t": 0
+},
+"config.prop.prop1.description": {
+"en": "Revive",
+"zh": "复活",
+"t": 0
+},
+"config.prop.prop2.name": {
+"en": "Hint",
+"zh": "提示",
+"t": 0
+},
+"config.prop.prop2.description": {
+"en": "Highlights a match for you.",
+"zh": "帮助你找到一根可消除的路径",
+"t": 0
+},
+"config.prop.prop3.name": {
+"en": "Item 3",
+"zh": "道具3",
+"t": 0
+},
+"config.prop.prop3.description": {
+"en": "Item 3 description",
+"zh": "这是道具3的说明",
+"t": 0
+},
+"config.prop.prop4.name": {
+"en": "Item 4",
+"zh": "道具4",
+"t": 0
+},
+"config.prop.prop4.description": {
+"en": "Item 4 description",
+"zh": "这是道具4的说明",
+"t": 0
+},
+"config.prop.prop5.name": {
+"en": "Item 5",
+"zh": "道具5",
+"t": 0
+},
+"config.prop.prop5.description": {
+"en": "Item 5 description",
+"zh": "这是道具5的说明",
+"t": 0
+},
+"config.revive.prop1.description": {
+"en": "Revives and restores all lives",
+"zh": "复活并恢复所有心",
+"t": 0
+},
+"config.revive.prop2.description": {
+"en": "Revive and use item 2",
+"zh": "复活并使用道具2",
+"t": 0
+},
+"config.revive.break_win_streak_warning": {
+"en": "Giving up will lose your level progress!",
+"zh": "放弃复活将会失去游戏进度",
+"t": 0
+},
+"config.reward.coin.name": {
+"en": "Coin",
+"zh": "金币",
+"t": 0
+},
+"config.reward.coin_multiplier.name": {
+"en": "Bonus Coins",
+"zh": "多倍金币",
+"t": 0
+},
+"config.win_streak.coin_multiplier_2.name": {
+"en": "2x Coins",
+"zh": "双倍金币",
+"t": 0
+},
+"config.win_streak.coin_multiplier_3.name": {
+"en": "3x Coins",
+"zh": "三倍金币",
+"t": 0
+},
+"ui.gamesuccess.title": {
+"en": "Victory",
+"zh": "胜利",
+"t": 0
+},
+"ui.gamefail.title": {
+"en": "Defeat",
+"zh": "失败",
+"t": 0
+},
+"ui.video.no_ad_tips": {
+"en": "Failed to load video. Please try again later.",
+"zh": "视频未拉取到，请稍后再试",
+"t": 0
+},
+"ui.video.ad_close_tips": {
+"en": "Please watch the full video to claim your reward.",
+"zh": "视频未完整播放",
+"t": 0
+},
+"ui.extra.achievements": {
+"en": "Achievements",
+"zh": "成就",
+"t": 0
+},
+"ui.extra.achievement_collection": {
+"en": "Collection",
+"zh": "成就收藏",
+"t": 0
+},
+"ui.extra.best_records": {
+"en": "Personal Best",
+"zh": "最佳纪录",
+"t": 0
+},
+"ui.extra.achievement_medals": {
+"en": "Medals",
+"zh": "成就奖牌",
+"t": 0
+},
+"ui.extra.challenge_trophies": {
+"en": "Challenge Trophies",
+"zh": "挑战奖杯",
+"t": 0
+},
+"ui.extra.active_record": {
+"en": "Longest Active Streak",
+"zh": "最长连续活跃",
+"t": 0
+},
+"ui.extra.win_record": {
+"en": "Highest Win Streak",
+"zh": "最高连胜",
+"t": 0
+},
+"ui.extra.day_record": {
+"en": "Most Levels in 1 Day",
+"zh": "单日最多通关",
+"t": 0
+},
+"ui.extra.level_legend": {
+"en": "Level Legend",
+"zh": "通关传奇",
+"t": 0
+},
+"ui.extra.perfect_play": {
+"en": "Flawless Run",
+"zh": "完美通关",
+"t": 0
+},
+"ui.extra.ball_collector": {
+"en": "Ball Collector",
+"zh": "彩球收集王",
+"t": 0
+},
+"ui.extra.piece_of_cake": {
+"en": "Piece of Cake",
+"zh": "小菜一碟",
+"t": 0
+},
+"ui.extra.untouched": {
+"en": "Unscathed",
+"zh": "毫发无损",
+"t": 0
+},
+"ui.extra.previous_year": {
+"en": "Previous Year",
+"zh": "上一年",
+"t": 0
+},
+"ui.extra.next_year": {
+"en": "Next Year",
+"zh": "下一年",
+"t": 0
+},
+"ui.extra.close": {
+"en": "Close",
+"zh": "关闭",
+"t": 0
+},
+"ui.extra.continue": {
+"en": "Continue",
+"zh": "继续",
+"t": 0
+},
+"ui.extra.view_month": {
+"en": "View Month",
+"zh": "查看月份",
+"t": 0
+},
+"ui.extra.current_progress": {
+"en": "Current Progress",
+"zh": "当前进度",
+"t": 0
+},
+"ui.extra.new_unlock": {
+"en": "New Unlock",
+"zh": "新解锁",
+"t": 0
+},
+"ui.extra.new_record": {
+"en": "New Record!",
+"zh": "刷新纪录！",
+"t": 0
+},
+"ui.extra.my_achievements": {
+"en": "My Achievements",
+"zh": "我的成就",
+"t": 0
+},
+"ui.extra.achievement_info": {
+"en": "Achievement Details",
+"zh": "成就介绍",
+"t": 0
+},
+"ui.extra.all_medals": {
+"en": "All medals earned!",
+"zh": "已获得全部奖牌！",
+"t": 0
+},
+"ui.extra.all_complete": {
+"en": "Completed",
+"zh": "全部完成",
+"t": 0
+},
+"ui.extra.next_target": {
+"en": "Next Target: {0}",
+"zh": "下一阶段目标：{0}",
+"t": 0
+},
+"ui.extra.year_trophies": {
+"en": "{0} Trophy",
+"zh": "{0} 年奖杯",
+"t": 0
+},
+"ui.extra.active_days": {
+"en": "{0}-Day Streak",
+"zh": "连续 {0} 天",
+"t": 0
+},
+"ui.extra.active_streak": {
+"en": "Active Streak",
+"zh": "连续活跃",
+"t": 0
+},
+"ui.extra.check_in": {
+"en": "Daily Check-in",
+"zh": "今日打卡",
+"t": 0
+},
+"ui.extra.keep_active": {
+"en": "Complete a level every day to keep your streak alive!",
+"zh": "每天通关，延续你的活跃纪录。",
+"t": 0
+},
+"ui.extra.check_in_done": {
+"en": "First win of the day completed!",
+"zh": "今天的首次通关已完成！",
+"t": 0
+},
+"ui.extra.come_back_tomorrow": {
+"en": "Come back tomorrow to keep your streak alive!",
+"zh": "明天继续，延续你的活跃纪录。",
+"t": 0
+},
+"ui.extra.earned_on": {
+"en": "Earned on {0}",
+"zh": "获得于 {0}",
+"t": 0
+},
+"ui.extra.day_progress": {
+"en": "{0} / {1} days",
+"zh": "{0} / {1} 天",
+"t": 0
+},
+"ui.extra.first_record": {
+"en": "Clear a level to set your first record!",
+"zh": "通关关卡，创造你的首个纪录！",
+"t": 0
+},
+"ui.extra.active_settlement": {
+"en": "You have been active for {0} days in a row!",
+"zh": "你已连续活跃 {0} 天！",
+"t": 0
+},
+"ui.extra.win_settlement": {
+"en": "You won {0} levels in a row!",
+"zh": "你已连续通关 {0} 关！",
+"t": 0
+},
+"ui.extra.day_settlement": {
+"en": "You won {0} levels in a day!",
+"zh": "你曾在一天内通关 {0} 关！",
+"t": 0
+},
+"ui.extra.current_wins": {
+"en": "Current win streak: {0} levels.",
+"zh": "当前已连续通关 {0} 关。",
+"t": 0
+},
+"ui.extra.current_day_wins": {
+"en": "Levels cleared today: {0}.",
+"zh": "今天已通关 {0} 关。",
+"t": 0
+},
+"ui.extra.clear_action": {
+"en": "Clear {0} different levels",
+"zh": "通关 {0} 个不同关卡",
+"t": 0
+},
+"ui.extra.perfect_action": {
+"en": "Clear {0} levels without losing a life",
+"zh": "不损失生命通关 {0} 个关卡",
+"t": 0
+},
+"ui.extra.collect_action": {
+"en": "Collect {0} balls",
+"zh": "收集 {0} 个彩球",
+"t": 0
+},
+"ui.extra.nightmare_action": {
+"en": "Clear {0} Nightmare levels",
+"zh": "通关 {0} 个噩梦关卡",
+"t": 0
+},
+"ui.extra.untouched_action": {
+"en": "Clear {0} Nightmare levels without losing a life",
+"zh": "不损失生命通关 {0} 个噩梦关卡",
+"t": 0
+},
+"ui.extra.achievement_earned": {
+"en": "You've {0}! \nUnlocked Achievement: {1}!",
+"zh": "你已{0}，\n获得「{1}」成就！",
+"t": 0
+},
+"ui.extra.achievement_target": {
+"en": "{0}\nto earn {1}.",
+"zh": "{0}，\n即可获得「{1}」成就。",
+"t": 0
+},
+"ui.extra.month_trophy": {
+"en": "You earned the {0} challenge trophy!",
+"zh": "你获得了{0}的挑战奖杯！",
+"t": 0
+},
+"ui.extra.daily_challenge": {
+"en": "Daily Challenge",
+"zh": "每日挑战",
+"t": 0
+},
+"ui.extra.no_challenges": {
+"en": "No challenges available",
+"zh": "暂无可用挑战",
+"t": 0
+},
+"ui.extra.start_challenge": {
+"en": "Start Challenge",
+"zh": "开始挑战",
+"t": 0
+},
+"ui.extra.retry_challenge": {
+"en": "Try Again",
+"zh": "再次挑战",
+"t": 0
+},
+"ui.extra.other_challenges": {
+"en": "More Challenges",
+"zh": "其他挑战",
+"t": 0
+},
+"ui.extra.coming_soon": {
+"en": "Coming Soon",
+"zh": "敬请期待",
+"t": 0
+},
+"ui.extra.month_complete": {
+"en": "Month Complete!",
+"zh": "本月已完成！",
+"t": 0
+},
+"ui.extra.previous_month": {
+"en": "Previous Month",
+"zh": "上个月",
+"t": 0
+},
+"ui.extra.next_month": {
+"en": "Next Month",
+"zh": "下个月",
+"t": 0
+},
+"ui.extra.collection": {
+"en": "Collection",
+"zh": "收藏",
+"t": 0
+},
+"ui.extra.unlock_level": {
+"en": "Clear level {0} to unlock",
+"zh": "通关第 {0} 关解锁",
+"t": 0
+},
+"ui.extra.locked_level": {
+"en": "Unlocks at Level {0}",
+"zh": "第 {0} 关解锁",
+"t": 0
+},
+"ui.extra.league": {
+"en": "League",
+"zh": "排位赛",
+"t": 0
+},
+"ui.extra.league_result": {
+"en": "League Results",
+"zh": "排位结算",
+"t": 0
+},
+"ui.extra.view_results": {
+"en": "View Results",
+"zh": "查看结果",
+"t": 0
+},
+"ui.extra.join_league": {
+"en": "Join League",
+"zh": "参加排位",
+"t": 0
+},
+"ui.extra.day_hours": {
+"en": "{0}d {1}h",
+"zh": "{0}天{1}小时",
+"t": 0
+},
+"ui.extra.hour_minutes": {
+"en": "{0}h {1}m",
+"zh": "{0}小时{1}分",
+"t": 0
+},
+"ui.extra.minute_seconds": {
+"en": "{0}m {1}s",
+"zh": "{0}分{1}秒",
+"t": 0
+},
+"ui.extra.weekly_schedule": {
+"en": "Every {0} at {1} UTC",
+"zh": "每{0} {1} UTC",
+"t": 0
+},
+"ui.extra.cycle_schedule": {
+"en": "Every {0} Days at {1} UTC",
+"zh": "每{0}天 {1} UTC",
+"t": 0
+},
+"ui.extra.tier": {
+"en": "{0} League",
+"zh": "{0}段位",
+"t": 0
+},
+"ui.extra.me": {
+"en": "Me",
+"zh": "我",
+"t": 0
+},
+"ui.extra.promoted": {
+"en": "Promoted!",
+"zh": "恭喜晋级！",
+"t": 0
+},
+"ui.extra.retained": {
+"en": "Tier Retained!",
+"zh": "成功保级！",
+"t": 0
+},
+"ui.extra.promotion_outcome": {
+"en": "Promoted to {0}!",
+"zh": "晋升至{0}段位！",
+"t": 0
+},
+"ui.extra.demotion_outcome": {
+"en": "Moved to {0}. Keep going!",
+"zh": "降至{0}段位，再接再厉！",
+"t": 0
+},
+"ui.extra.retain_outcome": {
+"en": "Stayed in {0}!",
+"zh": "保持{0}段位！",
+"t": 0
+},
+"ui.extra.last_week": {
+"en": "Last Week",
+"zh": "上周",
+"t": 0
+},
+"ui.extra.last_round": {
+"en": "Last Round",
+"zh": "上轮",
+"t": 0
+},
+"ui.extra.rank_result": {
+"en": "{0}: ranked #{1}\n{2}",
+"zh": "{0}获得第 {1} 名\n{2}",
+"t": 0
+},
+"ui.extra.unranked_result": {
+"en": "{0}: did not participate\n{1}",
+"zh": "{0}未参加排位\n{1}",
+"t": 0
+},
+"ui.extra.league_guide1": {
+"en": "Collect balls as you clear levels\nto earn League Points!",
+"zh": "通关时收集彩球\n积累排位积分！",
+"t": 0
+},
+"ui.extra.league_guide2": {
+"en": "Collect more before the round ends\nand climb the leaderboard!",
+"zh": "本轮结束前多多收集\n提高积分，冲击榜首！",
+"t": 0
+},
+"ui.extra.league_guide3": {
+"en": "Finish in the Promotion Zone\nto reach a higher tier!",
+"zh": "结算时进入晋级区\n晋升更高段位！",
+"t": 0
+},
+"ui.extra.bronze": {
+"en": "Bronze",
+"zh": "青铜",
+"t": 0
+},
+"ui.extra.silver": {
+"en": "Silver",
+"zh": "白银",
+"t": 0
+},
+"ui.extra.gold": {
+"en": "Gold",
+"zh": "黄金",
+"t": 0
+},
+"ui.extra.platinum": {
+"en": "Platinum",
+"zh": "铂金",
+"t": 0
+},
+"ui.extra.diamond": {
+"en": "Diamond",
+"zh": "钻石",
+"t": 0
+},
+"ui.extra.master": {
+"en": "Master",
+"zh": "王者",
+"t": 0
+},
+"ui.extra.promotion_zone": {
+"en": "Promotion Zone",
+"zh": "晋级区",
+"t": 0
+},
+"ui.extra.demotion_zone": {
+"en": "Demotion Zone",
+"zh": "降级区",
+"t": 0
+},
+"ui.extra.language": {
+"en": "Language",
+"zh": "语言",
+"t": 0
+},
+"ui.extra.sound": {
+"en": "Sound",
+"zh": "音效",
+"t": 0
+},
+"ui.extra.music": {
+"en": "Music",
+"zh": "音乐",
+"t": 0
+},
+"ui.extra.vibration": {
+"en": "Haptics",
+"zh": "振动",
+"t": 0
+},
+"ui.extra.privacy": {
+"en": "Privacy Policy",
+"zh": "隐私政策",
+"t": 0
+},
+"ui.extra.terms": {
+"en": "Terms of Service",
+"zh": "服务条款",
+"t": 0
+},
+"ui.extra.revive": {
+"en": "Revive",
+"zh": "复活",
+"t": 0
+},
+"ui.extra.continue_question": {
+"en": "Continue?",
+"zh": "继续游戏？",
+"t": 0
+},
+"ui.extra.refill": {
+"en": "Refill Lives",
+"zh": "恢复生命",
+"t": 0
+},
+"ui.extra.revive_ad": {
+"en": "Watch an ad to refill your lives\nand keep playing!",
+"zh": "观看广告恢复生命，\n继续游戏！",
+"t": 0
+},
+"ui.extra.leave_warning": {
+"en": "Leaving now will lose your progress.\nKeep playing?",
+"zh": "现在退出会失去进度。\n继续游戏吗？",
+"t": 0
+},
+"ui.extra.claimed": {
+"en": "Claimed",
+"zh": "已领取",
+"t": 0
+},
+"ui.extra.coin_amount": {
+"en": "{0} Coins",
+"zh": "{0} 金币",
+"t": 0
+},
+"ui.extra.daily": {
+"en": "Daily",
+"zh": "日常",
+"t": 0
+},
+"ui.extra.get": {
+"en": "Get",
+"zh": "获取",
+"t": 0
+},
+"ui.extra.double": {
+"en": "2x",
+"zh": "双倍",
+"t": 0
+},
+"ui.extra.rank_unavailable": {
+"en": "Leaderboard Unavailable",
+"zh": "排行榜暂未开放",
+"t": 0
+},
+"ui.extra.permission_info": {
+"en": "Permission needed to access your profile.",
+"zh": "需要获取权限获得个人信息",
+"t": 0
+},
+"ui.extra.normal": {
+"en": "Normal",
+"zh": "普通",
+"t": 0
+},
+"ui.extra.hard": {
+"en": "Hard",
+"zh": "困难",
+"t": 0
+},
+"ui.extra.super_hard": {
+"en": "Super Hard",
+"zh": "极难",
+"t": 0
+},
+"ui.extra.nightmare": {
+"en": "Nightmare",
+"zh": "噩梦",
+"t": 0
+},
+"ui.extra.level_settlement": {
+"en": "You earned \"Level Legend\" by clearing {0} different levels!",
+"zh": "通关 {0} 个不同关卡，获得「通关传奇」！",
+"t": 0
+},
+"ui.extra.perfect_settlement": {
+"en": "You earned \"Perfect Play\" by clearing {0} levels without losing a life!",
+"zh": "不损失生命通关 {0} 个关卡，获得「完美通关」！",
+"t": 0
+},
+"ui.extra.ball_settlement": {
+"en": "You earned \"Ball Collector\" by collecting {0} balls!",
+"zh": "收集 {0} 个彩球，获得「彩球收集王」！",
+"t": 0
+},
+"ui.extra.nightmare_settlement": {
+"en": "You earned \"Piece of Cake\" by clearing {0} Nightmare levels!",
+"zh": "通关 {0} 个噩梦关卡，获得「小菜一碟」！",
+"t": 0
+},
+"ui.extra.untouched_settlement": {
+"en": "You earned \"Untouched\" by clearing {0} Nightmare levels without losing a life!",
+"zh": "不损失生命通关 {0} 个噩梦关卡，获得「毫发无损」！",
+"t": 0
+},
+"ui.tutorial.tap_remove": {
+"en": "Tap to Remove",
+"zh": "点击移除",
+"t": 0
+},
+"ui.tutorial.collision_warning": {
+"en": "Ball collisions cost a life",
+"zh": "小球相撞会损失生命值",
+"t": 0
+},
+"ui.tutorial.pinch_zoom": {
+"en": "Pinch to Zoom",
+"zh": "双指滑动放大",
+"t": 0
+},
+"ui.result.success_title_sprite": {
+"en": "Successful！",
+"zh": "WinUI_Title_Cn",
+"t": 5
+},
+"ui.result.fail_title_sprite": {
+"en": "LevelFailed！",
+"zh": "FailUI_Title_Cn",
+"t": 5
+},
+"font.ui.Alibaba-PuHuiTi-H": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"font.ui.BalooDa-Regular": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"font.ui.LegacyRuntime": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"font.ui.SourceSans3-Bold": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"font.ui.multilingual_selector": {
+"en": "NotoSansCJKkr-Regular",
+"zh": "NotoSansCJKkr-Regular",
+"t": 1
+},
+"font.ui.FirstEnterGameFont": {
+"en": "BalooDa-Regular",
+"zh": "Alibaba-PuHuiTi-H",
+"t": 1
+},
+"ui.victory_praise.awesome": {
+"en": "Awesome!",
+"zh": "太棒了！",
+"t": 0
+},
+"ui.victory_praise.amazing": {
+"en": "Amazing!",
+"zh": "真厉害！",
+"t": 0
+},
+"ui.victory_praise.excellent": {
+"en": "Excellent!",
+"zh": "非常出色！",
+"t": 0
+},
+"ui.victory_praise.brilliant": {
+"en": "Brilliant!",
+"zh": "精彩绝伦！",
+"t": 0
+},
+"ui.victory_praise.fantastic": {
+"en": "Fantastic!",
+"zh": "太精彩了！",
+"t": 0
+},
+"ui.victory_praise.well_done": {
+"en": "Well Done!",
+"zh": "干得漂亮！",
+"t": 0
+},
+"ui.victory_praise.stage_clear": {
+"en": "Stage Clear!",
+"zh": "通关成功！",
+"t": 0
+},
+"ui.main.level_name": {
+"en": "Level ",
+"zh": "关卡",
+"t": 0
+},
+"Mark of Excellence": {
+"en": "Mark of Excellence",
+"zh": "巅峰印记",
+"t": 0
+},
+"Highest rank reached: {0}": {
+"en": "Highest rank reached: {0}",
+"zh": "历史最高段位：{0}",
+"t": 0
+},
+"Reach {0} in a league settlement to earn this medal.": {
+"en": "Reach {0} in a league settlement to earn this medal.",
+"zh": "排位结算达到{0}，获得巅峰印记。",
+"t": 0
+},
+"ui.extra.league_rank_action": {
+"en": "Reach {0} in a league settlement",
+"zh": "在排位结算中达到{0}段位",
+"t": 0
+},
+"ui.setting.ingame_sounds": {
+"en": "Sounds",
+"zh": "音效",
+"t": 0
+},
+"ui.setting.ingame_vibrations": {
+"en": "Vibrations",
+"zh": "振动",
+"t": 0
+},
+"ui.score_praise.perfect_start": {
+"en": "Perfect Start!",
+"zh": "完美开局！",
+"t": 0
+},
+"ui.score_praise.unstoppable_today": {
+"en": "Unstoppable Today!",
+"zh": "今日势不可挡！",
+"t": 0
+},
+"ui.score_praise.clutch_win": {
+"en": "Clutch Win!",
+"zh": "极限获胜！",
+"t": 0
+},
+"ui.score_praise.desperate_comeback": {
+"en": "Against All Odds!",
+"zh": "绝境翻盘！",
+"t": 0
+},
+"ui.score_praise.comeback": {
+"en": "What a Comeback!",
+"zh": "逆风翻盘！",
+"t": 0
+},
+"ui.score_praise.fight_back": {
+"en": "Epic Fightback!",
+"zh": "绝地反击！",
+"t": 0
+},
+"ui.score_praise.lightning_fast": {
+"en": "Lightning Fast!",
+"zh": "迅如闪电！",
+"t": 0
+},
+"ui.score_praise.speedy": {
+"en": "Super Speed!",
+"zh": "神速！",
+"t": 0
+},
+"ui.score_praise.no_mistakes": {
+"en": "No Mistakes!",
+"zh": "零失误！",
+"t": 0
+},
+"ui.score_praise.flawless": {
+"en": "Flawless!",
+"zh": "无懈可击！",
+"t": 0
+},
+"ui.score_praise.nice_move": {
+"en": "Nice Move!",
+"zh": "妙步！",
+"t": 0
+},
+"ui.score_praise.sharp_eyes": {
+"en": "Sharp Eyes!",
+"zh": "好眼力！",
+"t": 0
+},
+"ui.score_praise.ball_master": {
+"en": "Ball Master!",
+"zh": "彩球大师！",
+"t": 0
+},
+"ui.score_praise.ball_expert": {
+"en": "Ball Expert!",
+"zh": "彩球高手！",
+"t": 0
+},
+"ui.common.next_level": {
+"en": "Next",
+"zh": "下一关",
+"t": 0
+},
+"ui.revive.almost_there": {
+"en": "Almost there!",
+"zh": "就差一点！",
+"t": 0
+},
+"ui.revive.keep_going": {
+"en": "Keep it up!",
+"zh": "继续加油！",
+"t": 0
+},
+"ui.revive.no_more_attempts": {
+"en": "No more attempts",
+"zh": "次数用尽",
+"t": 0
+},
+"ui.revive.continue_ad": {
+"en": "Watch an ad to continue",
+"zh": "观看广告继续游戏",
+"t": 0
+},
+"ui.revive.refill_ad": {
+"en": "Watch an ad to refill your lives",
+"zh": "观看广告补充生命",
+"t": 0
+},
+"ui.revive.continue_free": {
+"en": "Keep playing!",
+"zh": "继续游戏！",
+"t": 0
+},
+"ui.revive.refill_free": {
+"en": "Refill your lives and keep playing!",
+"zh": "补充生命，继续游戏！",
+"t": 0
+},
+"ui.revive.refill": {
+"en": "Refill",
+"zh": "补充",
+"t": 0
+},
+"ui.common.play": {
+"en": "Play",
+"zh": "开始游戏",
+"t": 0
+},
+"ui.permission.profile_heading": {
+"en": "We need access to your profile",
+"zh": "我们想要获取权限",
+"t": 0
+},
+"ui.permission.profile_detail": {
+"en": "to display your avatar and nickname.",
+"zh": "来获得您的头像和昵称",
+"t": 0
+},
+"ui.prop.title": {
+"en": "Boosters",
+"zh": "道具",
+"t": 0
+},
+"ui.score.difficulty": {
+"en": "Difficulty",
+"zh": "难度",
+"t": 0
+},
+"ui.score.time": {
+"en": "Time",
+"zh": "时间",
+"t": 0
+},
+"ui.score.score": {
+"en": "Score",
+"zh": "得分",
+"t": 0
+},
+"ui.score.today_levels": {
+"en": "Daily Challenge",
+"zh": "今日关卡",
+"t": 0
+},
+"ui.level_hint.challenge_started": {
+"en": "Game On!",
+"zh": "挑战开启",
+"t": 0
+},
+"ui.level_hint.one_shot_clear": {
+"en": "One-Shot Win!",
+"zh": "一击通关！",
+"t": 0
+},
+"ui.level_hint.text_1": {
+"en": "Only {0}% make it past this!",
+"zh": "仅{0}%的玩家通关此关！",
+"t": 0
+},
+"ui.level_hint.text_2": {
+"en": "{0}% get stuck on this pattern!",
+"zh": "{0}%的玩家表示此处的图案太难了！",
+"t": 0
+},
+"ui.level_hint.text_3": {
+"en": "Beat this to top {0}% of players!",
+"zh": "通关此关，超越{0}%的玩家！",
+"t": 0
+},
+"ui.level_hint.text_4": {
+"en": "{0}% fail right here!",
+"zh": "{0}%的玩家在此关失败！",
+"t": 0
+},
+"ui.level_hint.text_5": {
+"en": "Rated \"Hard\" by {0}% of players!",
+"zh": "{0}%的玩家认为本关难度很高！",
+"t": 0
+},
+"ui.level_hint.text_6": {
+"en": "Only {0}% clear the whole board here!",
+"zh": "仅{0}%的玩家在此清除了全部彩球！",
+"t": 0
+},
+"ui.level_hint.text_7": {
+"en": "You're in the top {0}% who beat this!",
+"zh": "你是成功攻克此关的{0}%玩家之一！",
+"t": 0
+},
+"ui.level_hint.text_8": {
+"en": "Only {0}% cracked this tricky level!",
+"zh": "仅有{0}%的玩家掌握了这个棘手关卡！",
+"t": 0
+},
+"ui.level_hint.text_9": {
+"en": "Only {0}% solved this one!",
+"zh": "仅有{0}%的玩家解出了这道谜题！",
+"t": 0
+}
+}

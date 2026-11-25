@@ -1,0 +1,9 @@
+heart.png
+size:143,143
+filter:Linear,Linear
+GameUI_Energy01
+bounds:107,87,34,54
+GameUI_Energy02
+bounds:67,87,38,54
+GameUI_Energy1
+bounds:2,87,63,54

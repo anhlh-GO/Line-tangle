@@ -1,0 +1,10 @@
+Hard.png
+size:542,542
+filter:Linear,Linear
+hard
+bounds:2,304,300,236
+superhard
+bounds:2,66,300,236
+veryhard
+bounds:304,240,300,236
+rotate:90

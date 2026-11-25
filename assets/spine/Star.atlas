@@ -1,0 +1,12 @@
+Star.png
+size:530,530
+filter:Linear,Linear
+fg
+bounds:2,431,97,172
+rotate:90
+icon_star1
+bounds:176,359,169,175
+rotate:90
+icon_star2
+bounds:353,359,169,175
+rotate:90

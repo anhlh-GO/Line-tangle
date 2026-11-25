@@ -1,0 +1,26 @@
+@font-face { font-family: 'BalooDa'; src: url('../assets/fonts/BalooDa-Regular.ttf') format('truetype'); font-display: block; }
+@font-face { font-family: 'SourceSans3'; src: url('../assets/fonts/SourceSans3-Bold.ttf') format('truetype'); }
+html, body { margin: 0; height: 100%; background: #e9e6d8; overflow: hidden; touch-action: none; -webkit-user-select: none; user-select: none; -webkit-tap-highlight-color: transparent; }
+#app { position: relative; margin: 0 auto; height: 100%; overflow: hidden; background: #fefef6; font-family: 'BalooDa', 'SourceSans3', system-ui, sans-serif; }
+#stage { position: absolute; inset: 0; }
+#board { position: absolute; left: 0; top: 0; touch-action: none; }
+#hand { position: absolute; left: 0; top: 0; width: 0; height: 0; display: none; pointer-events: none; z-index: 5; }
+#hand::after { content: ''; position: absolute; left: -6px; top: 2px; width: 74px; height: 74px; background: url('../assets/sp/shouzhi.webp') no-repeat center / contain; transform: rotate(-20deg); transform-origin: 0 0; }
+#ui { position: absolute; left: 0; top: 0; transform-origin: 0 0; pointer-events: none; }
+.panel { position: absolute; left: 0; top: 0; }
+.u { position: absolute; box-sizing: border-box; }
+.panel .btn { pointer-events: auto; cursor: pointer; }
+.panel .btn:active { filter: brightness(0.92); }
+.panel.modal { pointer-events: auto; }
+.utxt { display: block; white-space: pre-wrap; word-break: break-word; width: 100%; font-family: inherit; }
+.spinecv { position: absolute; pointer-events: none; }
+#loading { position: absolute; inset: 0; background: #f5f4e9 url('../assets/icon.png') no-repeat center 38% / 32%; z-index: 100; transition: opacity .4s; }
+#loading .bar { position: absolute; left: 20%; right: 20%; bottom: 22%; height: 14px; border-radius: 7px; background: #e2d6bd; overflow: hidden; }
+#loading .bar i { display: block; height: 100%; width: 0; background: #f39a3b; border-radius: 7px; transition: width .2s; }
+.pop { animation: pop .32s cubic-bezier(.2,1.4,.5,1); }
+@keyframes pop { from { transform: scale(.6); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.fadein { animation: fadein .25s ease-out; }
+@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+.toast { position: absolute; left: 50%; top: 30%; transform: translate(-50%, -50%); padding: 22px 46px; border-radius: 60px; background: rgba(90, 60, 30, .85); color: #fff; font-size: 52px; white-space: nowrap; pointer-events: none; animation: fadein .2s; z-index: 50; }
+.heartloss { animation: heartloss .6s ease-out forwards; }
+@keyframes heartloss { 0% { transform: scale(1); } 30% { transform: scale(1.35); } 100% { transform: scale(0); opacity: 0; } }
