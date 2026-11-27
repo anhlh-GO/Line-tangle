@@ -4,7 +4,7 @@
 "tapes": 3,
 "colors": 1,
 "colorList": [
-"blue1"
+"green1"
 ],
 "pathLen": 8.2,
 "avgLen": 2.75,
@@ -36,6 +36,49 @@
 "tape": "TapeUnit001"
 },
 "diff": 0,
+"order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new1": {
+"name": "new1",
+"tapes": 3,
+"colors": 2,
+"colorList": [
+"blue1",
+"orange1"
+],
+"pathLen": 10.8,
+"avgLen": 3.6,
+"longest": 7.32,
+"free0": 3,
+"rounds": 1,
+"roundSizes": [
+3
+],
+"edges": 0,
+"pairs": 0,
+"blockedBoth": 0,
+"maxBlockers": 0,
+"graze": 0,
+"crossings": 0,
+"w": 5.85,
+"h": 5.34,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Tutorial: Tap to remove"
+],
+"tut": {
+"type": 1,
+"text": "",
+"delay": 0.0,
+"tape": "TapeUnit001"
+},
+"diff": 0,
 "order": 1,
 "daily": [],
 "startHint": null,
@@ -46,8 +89,8 @@
 "tapes": 4,
 "colors": 3,
 "colorList": [
-"brown1",
-"orange1",
+"blue1",
+"gray1",
 "red1"
 ],
 "pathLen": 16.1,
@@ -81,6 +124,54 @@
 "tape": "TapeUnit004"
 },
 "diff": 0,
+"order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new2": {
+"name": "new2",
+"tapes": 5,
+"colors": 4,
+"colorList": [
+"blue2",
+"brown1",
+"green2",
+"red1"
+],
+"pathLen": 20.7,
+"avgLen": 4.13,
+"longest": 6.87,
+"free0": 2,
+"rounds": 3,
+"roundSizes": [
+2,
+2,
+1
+],
+"edges": 3,
+"pairs": 3,
+"blockedBoth": 3,
+"maxBlockers": 1,
+"graze": 5,
+"crossings": 0,
+"w": 4.87,
+"h": 5.33,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Tutorial: Collision costs a life",
+"Big balls x1"
+],
+"tut": {
+"type": 2,
+"text": "",
+"delay": 0.0,
+"tape": "TapeUnit002"
+},
+"diff": 0,
 "order": 2,
 "daily": [],
 "startHint": null,
@@ -93,9 +184,9 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
-"green1",
-"purple1"
+"orange1",
+"purple1",
+"yellow1"
 ],
 "pathLen": 28.1,
 "avgLen": 4.69,
@@ -115,6 +206,49 @@
 "crossings": 4,
 "w": 5.27,
 "h": 7.55,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new3": {
+"name": "new3",
+"tapes": 7,
+"colors": 7,
+"colorList": [
+"blue1",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1"
+],
+"pathLen": 63.4,
+"avgLen": 9.06,
+"longest": 9.35,
+"free0": 3,
+"rounds": 3,
+"roundSizes": [
+3,
+3,
+1
+],
+"edges": 6,
+"pairs": 6,
+"blockedBoth": 4,
+"maxBlockers": 3,
+"graze": 0,
+"crossings": 5,
+"w": 9.05,
+"h": 10.19,
 "lineWidth": [
 0.07
 ],
@@ -173,14 +307,64 @@
 "startHint": null,
 "clearHint": null
 },
+"new4": {
+"name": "new4",
+"tapes": 15,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 89.2,
+"avgLen": 5.95,
+"longest": 10.28,
+"free0": 7,
+"rounds": 5,
+"roundSizes": [
+7,
+4,
+1,
+2,
+1
+],
+"edges": 15,
+"pairs": 15,
+"blockedBoth": 8,
+"maxBlockers": 3,
+"graze": 6,
+"crossings": 14,
+"w": 10.01,
+"h": 10.39,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 4,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level5": {
 "name": "level5",
 "tapes": 21,
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
-"gray1",
 "green1",
 "green2",
 "orange1",
@@ -226,13 +410,13 @@
 "tapes": 12,
 "colors": 8,
 "colorList": [
-"blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
-"pink1",
-"purple1",
+"orange1",
+"red1",
 "yellow1"
 ],
 "pathLen": 57.3,
@@ -317,6 +501,62 @@
 "startHint": null,
 "clearHint": null
 },
+"new7": {
+"name": "new7",
+"tapes": 17,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 84.9,
+"avgLen": 5.0,
+"longest": 8.26,
+"free0": 3,
+"rounds": 13,
+"roundSizes": [
+3,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+1,
+1,
+1
+],
+"edges": 24,
+"pairs": 24,
+"blockedBoth": 14,
+"maxBlockers": 3,
+"graze": 2,
+"crossings": 4,
+"w": 8.23,
+"h": 13.92,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 7,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level8": {
 "name": "level8",
 "tapes": 23,
@@ -366,16 +606,63 @@
 "startHint": null,
 "clearHint": null
 },
+"new8": {
+"name": "new8",
+"tapes": 11,
+"colors": 7,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green2",
+"orange1",
+"purple1"
+],
+"pathLen": 77.2,
+"avgLen": 7.02,
+"longest": 14.01,
+"free0": 5,
+"rounds": 6,
+"roundSizes": [
+5,
+2,
+1,
+1,
+1,
+1
+],
+"edges": 14,
+"pairs": 14,
+"blockedBoth": 6,
+"maxBlockers": 5,
+"graze": 6,
+"crossings": 7,
+"w": 10.7,
+"h": 6.72,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 8,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level9": {
 "name": "level9",
 "tapes": 12,
-"colors": 7,
+"colors": 8,
 "colorList": [
 "blue1",
 "brown1",
 "gray1",
 "green1",
-"orange1",
+"green2",
+"pink1",
 "red1",
 "yellow1"
 ],
@@ -406,6 +693,57 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new9": {
+"name": "new9",
+"tapes": 19,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 97.4,
+"avgLen": 5.13,
+"longest": 9.78,
+"free0": 10,
+"rounds": 5,
+"roundSizes": [
+10,
+4,
+2,
+2,
+1
+],
+"edges": 17,
+"pairs": 18,
+"blockedBoth": 9,
+"maxBlockers": 5,
+"graze": 6,
+"crossings": 3,
+"w": 8.73,
+"h": 10.38,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 9,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -459,6 +797,61 @@
 "startHint": null,
 "clearHint": null
 },
+"new10": {
+"name": "new10",
+"tapes": 50,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 272.3,
+"avgLen": 5.45,
+"longest": 9.81,
+"free0": 24,
+"rounds": 9,
+"roundSizes": [
+24,
+8,
+6,
+3,
+3,
+2,
+2,
+1,
+1
+],
+"edges": 62,
+"pairs": 62,
+"blockedBoth": 26,
+"maxBlockers": 7,
+"graze": 18,
+"crossings": 30,
+"w": 14.79,
+"h": 13.19,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 1,
+"order": 10,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level11": {
 "name": "level11",
 "tapes": 18,
@@ -466,9 +859,9 @@
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -504,6 +897,56 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new11": {
+"name": "new11",
+"tapes": 10,
+"colors": 8,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"green1",
+"green2",
+"orange1",
+"purple1",
+"red1"
+],
+"pathLen": 89.8,
+"avgLen": 8.98,
+"longest": 15.48,
+"free0": 4,
+"rounds": 7,
+"roundSizes": [
+4,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 12,
+"pairs": 12,
+"blockedBoth": 6,
+"maxBlockers": 4,
+"graze": 3,
+"crossings": 6,
+"w": 8.92,
+"h": 10.7,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 11,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -559,11 +1002,12 @@
 "startHint": null,
 "clearHint": null
 },
-"level13": {
-"name": "level13",
-"tapes": 18,
-"colors": 10,
+"new12": {
+"name": "new12",
+"tapes": 30,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -572,6 +1016,56 @@
 "orange1",
 "pink1",
 "purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 99.7,
+"avgLen": 3.32,
+"longest": 5.46,
+"free0": 17,
+"rounds": 5,
+"roundSizes": [
+17,
+6,
+5,
+1,
+1
+],
+"edges": 30,
+"pairs": 31,
+"blockedBoth": 13,
+"maxBlockers": 5,
+"graze": 9,
+"crossings": 18,
+"w": 6.88,
+"h": 11.01,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 12,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level13": {
+"name": "level13",
+"tapes": 18,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
 "red1",
 "yellow1"
 ],
@@ -609,6 +1103,58 @@
 "startHint": null,
 "clearHint": null
 },
+"new13": {
+"name": "new13",
+"tapes": 19,
+"colors": 10,
+"colorList": [
+"blue1",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 89.3,
+"avgLen": 4.7,
+"longest": 8.97,
+"free0": 9,
+"rounds": 7,
+"roundSizes": [
+9,
+5,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 19,
+"pairs": 19,
+"blockedBoth": 10,
+"maxBlockers": 3,
+"graze": 11,
+"crossings": 10,
+"w": 10.99,
+"h": 7.57,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 13,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level14": {
 "name": "level14",
 "tapes": 18,
@@ -617,12 +1163,12 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"yellow1"
 ],
 "pathLen": 86.8,
 "avgLen": 4.82,
@@ -654,6 +1200,64 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new14": {
+"name": "new14",
+"tapes": 22,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 99.8,
+"avgLen": 4.53,
+"longest": 7.06,
+"free0": 8,
+"rounds": 12,
+"roundSizes": [
+8,
+3,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+1
+],
+"edges": 25,
+"pairs": 25,
+"blockedBoth": 14,
+"maxBlockers": 5,
+"graze": 8,
+"crossings": 4,
+"w": 7.98,
+"h": 14.86,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x4"
+],
+"tut": null,
+"diff": 0,
+"order": 14,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -707,20 +1311,70 @@
 "startHint": null,
 "clearHint": null
 },
-"level16": {
-"name": "level16",
+"new15": {
+"name": "new15",
 "tapes": 12,
-"colors": 9,
+"colors": 8,
 "colorList": [
 "blue2",
 "brown1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
+],
+"pathLen": 73.1,
+"avgLen": 6.09,
+"longest": 9.99,
+"free0": 4,
+"rounds": 7,
+"roundSizes": [
+4,
+2,
+2,
+1,
+1,
+1,
+1
+],
+"edges": 18,
+"pairs": 18,
+"blockedBoth": 8,
+"maxBlockers": 5,
+"graze": 3,
+"crossings": 15,
+"w": 9.51,
+"h": 9.05,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x2"
+],
+"tut": null,
+"diff": 0,
+"order": 15,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level16": {
+"name": "level16",
+"tapes": 12,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1"
 ],
 "pathLen": 63.9,
 "avgLen": 5.33,
@@ -751,6 +1405,62 @@
 "startHint": null,
 "clearHint": null
 },
+"new16": {
+"name": "new16",
+"tapes": 50,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 208.2,
+"avgLen": 4.16,
+"longest": 18.26,
+"free0": 21,
+"rounds": 12,
+"roundSizes": [
+21,
+9,
+4,
+3,
+4,
+2,
+1,
+1,
+1,
+2,
+1,
+1
+],
+"edges": 82,
+"pairs": 82,
+"blockedBoth": 29,
+"maxBlockers": 8,
+"graze": 47,
+"crossings": 114,
+"w": 9.84,
+"h": 9.22,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 1,
+"order": 16,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level17": {
 "name": "level17",
 "tapes": 20,
@@ -763,7 +1473,7 @@
 "green1",
 "green2",
 "orange1",
-"purple1",
+"pink1",
 "red1",
 "yellow1"
 ],
@@ -802,12 +1512,63 @@
 "startHint": null,
 "clearHint": null
 },
+"new17": {
+"name": "new17",
+"tapes": 16,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1"
+],
+"pathLen": 104.5,
+"avgLen": 6.53,
+"longest": 13.11,
+"free0": 5,
+"rounds": 8,
+"roundSizes": [
+5,
+2,
+2,
+2,
+1,
+2,
+1,
+1
+],
+"edges": 19,
+"pairs": 19,
+"blockedBoth": 11,
+"maxBlockers": 5,
+"graze": 0,
+"crossings": 8,
+"w": 9.95,
+"h": 10.85,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 17,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level18": {
 "name": "level18",
 "tapes": 26,
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -815,8 +1576,7 @@
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 82.2,
 "avgLen": 3.16,
@@ -856,17 +1616,18 @@
 "level19": {
 "name": "level19",
 "tapes": 20,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
-"green1",
 "green2",
 "orange1",
 "pink1",
-"purple1"
+"purple1",
+"red1",
+"yellow1"
 ],
 "pathLen": 73.7,
 "avgLen": 3.68,
@@ -900,19 +1661,76 @@
 "startHint": null,
 "clearHint": null
 },
+"new19": {
+"name": "new19",
+"tapes": 22,
+"colors": 10,
+"colorList": [
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 128.0,
+"avgLen": 5.82,
+"longest": 9.75,
+"free0": 9,
+"rounds": 10,
+"roundSizes": [
+9,
+2,
+1,
+1,
+1,
+2,
+2,
+2,
+1,
+1
+],
+"edges": 21,
+"pairs": 21,
+"blockedBoth": 13,
+"maxBlockers": 3,
+"graze": 8,
+"crossings": 24,
+"w": 10.58,
+"h": 11.2,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 19,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level20": {
 "name": "level20",
 "tapes": 23,
-"colors": 8,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
-"green1",
+"gray1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 110.0,
 "avgLen": 4.78,
@@ -948,11 +1766,12 @@
 "startHint": null,
 "clearHint": null
 },
-"level21": {
-"name": "level21",
-"tapes": 13,
-"colors": 9,
+"new20": {
+"name": "new20",
+"tapes": 60,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -961,6 +1780,62 @@
 "orange1",
 "pink1",
 "purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 305.0,
+"avgLen": 5.08,
+"longest": 8.65,
+"free0": 25,
+"rounds": 11,
+"roundSizes": [
+25,
+5,
+5,
+5,
+7,
+3,
+3,
+2,
+3,
+1,
+1
+],
+"edges": 80,
+"pairs": 80,
+"blockedBoth": 35,
+"maxBlockers": 6,
+"graze": 161,
+"crossings": 185,
+"w": 12.13,
+"h": 12.29,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 1,
+"order": 20,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level21": {
+"name": "level21",
+"tapes": 13,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 79.6,
@@ -997,6 +1872,54 @@
 "startHint": null,
 "clearHint": null
 },
+"new21": {
+"name": "new21",
+"tapes": 14,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"yellow1"
+],
+"pathLen": 60.1,
+"avgLen": 4.29,
+"longest": 6.7,
+"free0": 7,
+"rounds": 6,
+"roundSizes": [
+7,
+1,
+1,
+2,
+2,
+1
+],
+"edges": 14,
+"pairs": 14,
+"blockedBoth": 7,
+"maxBlockers": 4,
+"graze": 2,
+"crossings": 6,
+"w": 14.0,
+"h": 4.81,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 21,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level22": {
 "name": "level22",
 "tapes": 21,
@@ -1006,8 +1929,8 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -1047,6 +1970,59 @@
 "startHint": null,
 "clearHint": null
 },
+"new22": {
+"name": "new22",
+"tapes": 23,
+"colors": 10,
+"colorList": [
+"blue1",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 104.7,
+"avgLen": 4.55,
+"longest": 6.98,
+"free0": 10,
+"rounds": 8,
+"roundSizes": [
+10,
+5,
+2,
+2,
+1,
+1,
+1,
+1
+],
+"edges": 25,
+"pairs": 25,
+"blockedBoth": 13,
+"maxBlockers": 4,
+"graze": 44,
+"crossings": 12,
+"w": 11.31,
+"h": 8.42,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 22,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level23": {
 "name": "level23",
 "tapes": 23,
@@ -1054,13 +2030,13 @@
 "colorList": [
 "blue1",
 "blue2",
-"gray1",
+"brown1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 80.0,
 "avgLen": 3.48,
@@ -1092,9 +2068,9 @@
 "startHint": null,
 "clearHint": null
 },
-"level24": {
-"name": "level24",
-"tapes": 20,
+"new23": {
+"name": "new23",
+"tapes": 11,
 "colors": 9,
 "colorList": [
 "blue1",
@@ -1105,7 +2081,55 @@
 "green2",
 "orange1",
 "pink1",
-"red1"
+"yellow1"
+],
+"pathLen": 90.5,
+"avgLen": 8.23,
+"longest": 11.44,
+"free0": 3,
+"rounds": 5,
+"roundSizes": [
+3,
+3,
+1,
+2,
+2
+],
+"edges": 14,
+"pairs": 14,
+"blockedBoth": 8,
+"maxBlockers": 3,
+"graze": 0,
+"crossings": 14,
+"w": 10.02,
+"h": 6.84,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 23,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level24": {
+"name": "level24",
+"tapes": 20,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
 ],
 "pathLen": 91.3,
 "avgLen": 4.56,
@@ -1141,10 +2165,10 @@
 "startHint": null,
 "clearHint": null
 },
-"level25": {
-"name": "level25",
-"tapes": 23,
-"colors": 9,
+"new24": {
+"name": "new24",
+"tapes": 16,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
@@ -1153,6 +2177,54 @@
 "green1",
 "orange1",
 "pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 102.5,
+"avgLen": 6.41,
+"longest": 13.01,
+"free0": 5,
+"rounds": 5,
+"roundSizes": [
+5,
+3,
+4,
+3,
+1
+],
+"edges": 15,
+"pairs": 15,
+"blockedBoth": 11,
+"maxBlockers": 3,
+"graze": 7,
+"crossings": 1,
+"w": 11.84,
+"h": 11.7,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 24,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level25": {
+"name": "level25",
+"tapes": 23,
+"colors": 9,
+"colorList": [
+"blue2",
+"brown1",
+"gray1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -1188,6 +2260,69 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new25": {
+"name": "new25",
+"tapes": 61,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 260.1,
+"avgLen": 4.26,
+"longest": 15.62,
+"free0": 19,
+"rounds": 19,
+"roundSizes": [
+19,
+9,
+4,
+3,
+3,
+2,
+2,
+2,
+1,
+2,
+2,
+3,
+1,
+1,
+1,
+1,
+1,
+2,
+2
+],
+"edges": 88,
+"pairs": 88,
+"blockedBoth": 42,
+"maxBlockers": 9,
+"graze": 36,
+"crossings": 103,
+"w": 21.89,
+"h": 10.0,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 1,
+"order": 25,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1247,10 +2382,10 @@
 "startHint": null,
 "clearHint": null
 },
-"level27": {
-"name": "level27",
-"tapes": 17,
-"colors": 9,
+"new26": {
+"name": "new26",
+"tapes": 86,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -1258,9 +2393,79 @@
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
+],
+"pathLen": 323.7,
+"avgLen": 3.76,
+"longest": 9.61,
+"free0": 31,
+"rounds": 25,
+"roundSizes": [
+31,
+9,
+5,
+3,
+4,
+4,
+4,
+4,
+3,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+1,
+2,
+1,
+1,
+1,
+1,
+2,
+1
+],
+"edges": 113,
+"pairs": 113,
+"blockedBoth": 55,
+"maxBlockers": 6,
+"graze": 167,
+"crossings": 131,
+"w": 12.8,
+"h": 14.54,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 2,
+"order": 26,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level27": {
+"name": "level27",
+"tapes": 17,
+"colors": 10,
+"colorList": [
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
 ],
 "pathLen": 93.7,
 "avgLen": 5.51,
@@ -1300,20 +2505,71 @@
 88.94
 ]
 },
+"new27": {
+"name": "new27",
+"tapes": 25,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 113.6,
+"avgLen": 4.54,
+"longest": 7.07,
+"free0": 9,
+"rounds": 7,
+"roundSizes": [
+9,
+3,
+3,
+3,
+5,
+1,
+1
+],
+"edges": 28,
+"pairs": 28,
+"blockedBoth": 16,
+"maxBlockers": 4,
+"graze": 6,
+"crossings": 20,
+"w": 10.12,
+"h": 16.2,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 27,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level28": {
 "name": "level28",
 "tapes": 25,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 93.9,
 "avgLen": 3.76,
@@ -1341,6 +2597,60 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new28": {
+"name": "new28",
+"tapes": 28,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 129.7,
+"avgLen": 4.63,
+"longest": 20.14,
+"free0": 11,
+"rounds": 10,
+"roundSizes": [
+11,
+8,
+2,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 32,
+"pairs": 32,
+"blockedBoth": 17,
+"maxBlockers": 5,
+"graze": 0,
+"crossings": 4,
+"w": 14.84,
+"h": 29.13,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 28,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1392,6 +2702,58 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new29": {
+"name": "new29",
+"tapes": 18,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"pink1",
+"red1",
+"yellow1"
+],
+"pathLen": 83.6,
+"avgLen": 4.65,
+"longest": 7.44,
+"free0": 8,
+"rounds": 8,
+"roundSizes": [
+8,
+4,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 18,
+"pairs": 18,
+"blockedBoth": 10,
+"maxBlockers": 5,
+"graze": 2,
+"crossings": 5,
+"w": 7.38,
+"h": 11.56,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 29,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1448,13 +2810,75 @@
 "startHint": null,
 "clearHint": null
 },
+"new30": {
+"name": "new30",
+"tapes": 65,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 285.8,
+"avgLen": 4.4,
+"longest": 6.49,
+"free0": 28,
+"rounds": 11,
+"roundSizes": [
+28,
+10,
+4,
+5,
+5,
+4,
+3,
+2,
+2,
+1,
+1
+],
+"edges": 75,
+"pairs": 77,
+"blockedBoth": 37,
+"maxBlockers": 10,
+"graze": 197,
+"crossings": 30,
+"w": 9.91,
+"h": 10.99,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Tutorial: 0",
+"Big balls x2"
+],
+"tut": {
+"type": 0,
+"text": "",
+"delay": 0.0
+},
+"diff": 1,
+"order": 30,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level31": {
 "name": "level31",
 "tapes": 15,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -1490,6 +2914,58 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new31": {
+"name": "new31",
+"tapes": 25,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 129.8,
+"avgLen": 5.19,
+"longest": 7.85,
+"free0": 12,
+"rounds": 9,
+"roundSizes": [
+12,
+3,
+2,
+1,
+2,
+1,
+1,
+1,
+2
+],
+"edges": 36,
+"pairs": 36,
+"blockedBoth": 13,
+"maxBlockers": 6,
+"graze": 57,
+"crossings": 10,
+"w": 7.21,
+"h": 10.42,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 31,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1541,6 +3017,59 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new32": {
+"name": "new32",
+"tapes": 57,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 205.6,
+"avgLen": 3.61,
+"longest": 6.56,
+"free0": 32,
+"rounds": 7,
+"roundSizes": [
+32,
+9,
+7,
+4,
+1,
+3,
+1
+],
+"edges": 53,
+"pairs": 58,
+"blockedBoth": 25,
+"maxBlockers": 7,
+"graze": 128,
+"crossings": 45,
+"w": 11.71,
+"h": 15.85,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x6"
+],
+"tut": null,
+"diff": 1,
+"order": 32,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1597,9 +3126,10 @@
 "level34": {
 "name": "level34",
 "tapes": 24,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -1644,16 +3174,71 @@
 "startHint": null,
 "clearHint": null
 },
-"level35": {
-"name": "level35",
-"tapes": 31,
-"colors": 10,
+"new34": {
+"name": "new34",
+"tapes": 30,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 230.7,
+"avgLen": 7.69,
+"longest": 15.95,
+"free0": 11,
+"rounds": 9,
+"roundSizes": [
+11,
+5,
+4,
+2,
+2,
+1,
+1,
+2,
+2
+],
+"edges": 39,
+"pairs": 39,
+"blockedBoth": 19,
+"maxBlockers": 5,
+"graze": 62,
+"crossings": 40,
+"w": 10.05,
+"h": 8.24,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 34,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level35": {
+"name": "level35",
+"tapes": 31,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
 "orange1",
 "pink1",
 "purple1",
@@ -1691,6 +3276,59 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new35": {
+"name": "new35",
+"tapes": 33,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 231.2,
+"avgLen": 7.01,
+"longest": 11.62,
+"free0": 14,
+"rounds": 7,
+"roundSizes": [
+14,
+8,
+3,
+2,
+3,
+2,
+1
+],
+"edges": 31,
+"pairs": 32,
+"blockedBoth": 19,
+"maxBlockers": 4,
+"graze": 67,
+"crossings": 69,
+"w": 15.63,
+"h": 9.24,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 35,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1742,6 +3380,54 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new36": {
+"name": "new36",
+"tapes": 25,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 107.7,
+"avgLen": 4.31,
+"longest": 11.27,
+"free0": 13,
+"rounds": 6,
+"roundSizes": [
+13,
+4,
+3,
+2,
+2,
+1
+],
+"edges": 27,
+"pairs": 27,
+"blockedBoth": 12,
+"maxBlockers": 5,
+"graze": 10,
+"crossings": 8,
+"w": 9.19,
+"h": 11.35,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 36,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1800,12 +3486,13 @@
 "startHint": null,
 "clearHint": null
 },
-"level38": {
-"name": "level38",
-"tapes": 23,
-"colors": 10,
+"new37": {
+"name": "new37",
+"tapes": 24,
+"colors": 11,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -1814,6 +3501,55 @@
 "pink1",
 "purple1",
 "red1",
+"yellow1"
+],
+"pathLen": 129.4,
+"avgLen": 5.39,
+"longest": 8.19,
+"free0": 10,
+"rounds": 6,
+"roundSizes": [
+10,
+4,
+4,
+2,
+3,
+1
+],
+"edges": 30,
+"pairs": 30,
+"blockedBoth": 14,
+"maxBlockers": 4,
+"graze": 4,
+"crossings": 20,
+"w": 5.76,
+"h": 13.22,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 37,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level38": {
+"name": "level38",
+"tapes": 23,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 102.4,
@@ -1862,9 +3598,9 @@
 "brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -1899,6 +3635,57 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new39": {
+"name": "new39",
+"tapes": 23,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 114.9,
+"avgLen": 5.0,
+"longest": 7.57,
+"free0": 11,
+"rounds": 8,
+"roundSizes": [
+11,
+3,
+3,
+2,
+1,
+1,
+1,
+1
+],
+"edges": 27,
+"pairs": 27,
+"blockedBoth": 12,
+"maxBlockers": 5,
+"graze": 3,
+"crossings": 13,
+"w": 9.24,
+"h": 13.79,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 39,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -1967,10 +3754,10 @@
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 112.5,
@@ -2006,6 +3793,57 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new41": {
+"name": "new41",
+"tapes": 25,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 127.6,
+"avgLen": 5.1,
+"longest": 8.4,
+"free0": 12,
+"rounds": 7,
+"roundSizes": [
+12,
+2,
+2,
+2,
+3,
+2,
+2
+],
+"edges": 30,
+"pairs": 30,
+"blockedBoth": 13,
+"maxBlockers": 4,
+"graze": 7,
+"crossings": 10,
+"w": 11.19,
+"h": 10.5,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 41,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -2064,17 +3902,18 @@
 "level43": {
 "name": "level43",
 "tapes": 28,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 141.9,
 "avgLen": 5.07,
@@ -2106,6 +3945,59 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new43": {
+"name": "new43",
+"tapes": 72,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 287.8,
+"avgLen": 4.0,
+"longest": 8.72,
+"free0": 44,
+"rounds": 7,
+"roundSizes": [
+44,
+10,
+6,
+5,
+3,
+3,
+1
+],
+"edges": 60,
+"pairs": 61,
+"blockedBoth": 28,
+"maxBlockers": 8,
+"graze": 205,
+"crossings": 10,
+"w": 14.81,
+"h": 20.17,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x2"
+],
+"tut": null,
+"diff": 1,
+"order": 43,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -2162,6 +4054,66 @@
 "startHint": null,
 "clearHint": null
 },
+"new44": {
+"name": "new44",
+"tapes": 107,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 362.7,
+"avgLen": 3.39,
+"longest": 18.13,
+"free0": 60,
+"rounds": 14,
+"roundSizes": [
+60,
+14,
+7,
+4,
+4,
+3,
+2,
+3,
+2,
+2,
+1,
+2,
+2,
+1
+],
+"edges": 111,
+"pairs": 112,
+"blockedBoth": 47,
+"maxBlockers": 9,
+"graze": 31,
+"crossings": 154,
+"w": 17.62,
+"h": 33.23,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 2,
+"order": 44,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level45": {
 "name": "level45",
 "tapes": 24,
@@ -2210,6 +4162,59 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new45": {
+"name": "new45",
+"tapes": 21,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 120.4,
+"avgLen": 5.73,
+"longest": 12.09,
+"free0": 6,
+"rounds": 9,
+"roundSizes": [
+6,
+4,
+3,
+2,
+2,
+1,
+1,
+1,
+1
+],
+"edges": 28,
+"pairs": 28,
+"blockedBoth": 15,
+"maxBlockers": 4,
+"graze": 12,
+"crossings": 36,
+"w": 9.86,
+"h": 11.42,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 45,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -2269,6 +4274,64 @@
 "startHint": null,
 "clearHint": null
 },
+"new46": {
+"name": "new46",
+"tapes": 18,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 116.3,
+"avgLen": 6.46,
+"longest": 19.24,
+"free0": 5,
+"rounds": 13,
+"roundSizes": [
+5,
+1,
+2,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 22,
+"pairs": 22,
+"blockedBoth": 13,
+"maxBlockers": 4,
+"graze": 7,
+"crossings": 5,
+"w": 9.96,
+"h": 18.54,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x2"
+],
+"tut": null,
+"diff": 0,
+"order": 46,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level47": {
 "name": "level47",
 "tapes": 26,
@@ -2281,8 +4344,8 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 84.4,
@@ -2321,20 +4384,75 @@
 "startHint": null,
 "clearHint": null
 },
-"level48": {
-"name": "level48",
-"tapes": 32,
-"colors": 9,
+"new47": {
+"name": "new47",
+"tapes": 25,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
+],
+"pathLen": 114.2,
+"avgLen": 4.57,
+"longest": 7.96,
+"free0": 9,
+"rounds": 8,
+"roundSizes": [
+9,
+7,
+3,
+1,
+2,
+1,
+1,
+1
+],
+"edges": 31,
+"pairs": 31,
+"blockedBoth": 16,
+"maxBlockers": 7,
+"graze": 7,
+"crossings": 13,
+"w": 12.0,
+"h": 6.02,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 0,
+"order": 47,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"level48": {
+"name": "level48",
+"tapes": 32,
+"colors": 10,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"red1",
+"yellow1"
 ],
 "pathLen": 119.5,
 "avgLen": 3.73,
@@ -2365,6 +4483,59 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new48": {
+"name": "new48",
+"tapes": 16,
+"colors": 9,
+"colorList": [
+"blue1",
+"blue2",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"yellow1"
+],
+"pathLen": 105.5,
+"avgLen": 6.6,
+"longest": 16.62,
+"free0": 5,
+"rounds": 11,
+"roundSizes": [
+5,
+1,
+1,
+1,
+2,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"edges": 20,
+"pairs": 20,
+"blockedBoth": 11,
+"maxBlockers": 5,
+"graze": 3,
+"crossings": 29,
+"w": 12.0,
+"h": 7.3,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [],
+"tut": null,
+"diff": 0,
+"order": 48,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -2419,6 +4590,67 @@
 "tut": null,
 "diff": 0,
 "order": null,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
+"new49": {
+"name": "new49",
+"tapes": 66,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 246.0,
+"avgLen": 3.73,
+"longest": 12.84,
+"free0": 28,
+"rounds": 15,
+"roundSizes": [
+28,
+13,
+6,
+6,
+2,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+1,
+1
+],
+"edges": 83,
+"pairs": 83,
+"blockedBoth": 38,
+"maxBlockers": 12,
+"graze": 42,
+"crossings": 113,
+"w": 12.01,
+"h": 24.58,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 1,
+"order": 49,
 "daily": [],
 "startHint": null,
 "clearHint": null
@@ -2478,6 +4710,59 @@
 "startHint": null,
 "clearHint": null
 },
+"new50": {
+"name": "new50",
+"tapes": 68,
+"colors": 11,
+"colorList": [
+"blue1",
+"blue2",
+"brown1",
+"gray1",
+"green1",
+"green2",
+"orange1",
+"pink1",
+"purple1",
+"red1",
+"yellow1"
+],
+"pathLen": 270.3,
+"avgLen": 3.98,
+"longest": 7.58,
+"free0": 24,
+"rounds": 7,
+"roundSizes": [
+24,
+10,
+12,
+9,
+9,
+3,
+1
+],
+"edges": 89,
+"pairs": 89,
+"blockedBoth": 44,
+"maxBlockers": 5,
+"graze": 152,
+"crossings": 85,
+"w": 14.73,
+"h": 13.56,
+"lineWidth": [
+0.07
+],
+"solvable": true,
+"features": [
+"Big balls x1"
+],
+"tut": null,
+"diff": 1,
+"order": 50,
+"daily": [],
+"startHint": null,
+"clearHint": null
+},
 "level51": {
 "name": "level51",
 "tapes": 17,
@@ -2485,13 +4770,13 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
+"pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 46.4,
 "avgLen": 2.73,
@@ -2531,7 +4816,7 @@
 "level52": {
 "name": "level52",
 "tapes": 25,
-"colors": 9,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -2540,6 +4825,8 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -2580,7 +4867,7 @@
 "level53": {
 "name": "level53",
 "tapes": 30,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -2591,6 +4878,7 @@
 "orange1",
 "pink1",
 "purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 120.5,
@@ -2789,11 +5077,11 @@
 "colors": 7,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
+"gray1",
+"green1",
 "green2",
-"orange1",
-"purple1",
+"pink1",
 "red1"
 ],
 "pathLen": 67.6,
@@ -2878,13 +5166,14 @@
 "level59": {
 "name": "level59",
 "tapes": 13,
-"colors": 6,
+"colors": 7,
 "colorList": [
-"blue1",
-"blue2",
 "brown1",
+"gray1",
+"green1",
 "orange1",
-"red1",
+"pink1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 78.5,
@@ -2980,14 +5269,15 @@
 "level61": {
 "name": "level61",
 "tapes": 9,
-"colors": 6,
+"colors": 7,
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
+"gray1",
 "green2",
 "pink1",
-"red1"
+"purple1",
+"yellow1"
 ],
 "pathLen": 62.5,
 "avgLen": 6.94,
@@ -3022,12 +5312,13 @@
 "level62": {
 "name": "level62",
 "tapes": 27,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -3075,17 +5366,18 @@
 "level63": {
 "name": "level63",
 "tapes": 25,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
-"green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 108.1,
 "avgLen": 4.32,
@@ -3235,8 +5527,9 @@
 "level66": {
 "name": "level66",
 "tapes": 26,
-"colors": 10,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -3290,13 +5583,13 @@
 "tapes": 10,
 "colors": 8,
 "colorList": [
+"blue1",
 "blue2",
+"brown1",
 "gray1",
-"green1",
 "green2",
 "orange1",
-"pink1",
-"red1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 85.4,
@@ -3332,13 +5625,15 @@
 "level69": {
 "name": "level69",
 "tapes": 20,
-"colors": 8,
+"colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
+"orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -3436,15 +5731,16 @@
 "level71": {
 "name": "level71",
 "tapes": 19,
-"colors": 9,
+"colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -3707,17 +6003,18 @@
 "level76": {
 "name": "level76",
 "tapes": 25,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 67.5,
 "avgLen": 2.7,
@@ -4033,7 +6330,7 @@
 "orange1",
 "pink1",
 "purple1",
-"yellow1"
+"red1"
 ],
 "pathLen": 72.1,
 "avgLen": 2.88,
@@ -4341,7 +6638,7 @@
 "level88": {
 "name": "level88",
 "tapes": 39,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -4349,6 +6646,7 @@
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -4503,11 +6801,11 @@
 "tapes": 19,
 "colors": 6,
 "colorList": [
-"brown1",
-"green1",
+"blue2",
+"gray1",
 "green2",
-"orange1",
-"red1",
+"pink1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 86.6,
@@ -4667,7 +6965,7 @@
 "level94": {
 "name": "level94",
 "tapes": 61,
-"colors": 9,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -4676,7 +6974,9 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 90.9,
@@ -6579,17 +8879,18 @@
 "level129": {
 "name": "level129",
 "tapes": 20,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
-"red1",
-"yellow1"
+"purple1",
+"red1"
 ],
 "pathLen": 69.9,
 "avgLen": 3.5,
@@ -6628,7 +8929,7 @@
 "level130": {
 "name": "level130",
 "tapes": 34,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -6636,6 +8937,7 @@
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -7206,9 +9508,10 @@
 "level140": {
 "name": "level140",
 "tapes": 56,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -7478,7 +9781,7 @@
 "level144": {
 "name": "level144",
 "tapes": 32,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -7489,6 +9792,7 @@
 "orange1",
 "pink1",
 "purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 129.6,
@@ -8797,14 +11101,14 @@
 "tapes": 16,
 "colors": 8,
 "colorList": [
+"blue1",
+"blue2",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 81.1,
 "avgLen": 5.07,
@@ -8845,7 +11149,7 @@
 "level164": {
 "name": "level164",
 "tapes": 27,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -8853,6 +11157,7 @@
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -10363,10 +12668,11 @@
 "level189": {
 "name": "level189",
 "tapes": 31,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -10663,14 +12969,14 @@
 "colors": 9,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 92.4,
 "avgLen": 3.7,
@@ -10709,13 +13015,14 @@
 "level195": {
 "name": "level195",
 "tapes": 27,
-"colors": 9,
+"colors": 10,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
-"green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -10761,17 +13068,19 @@
 "level196": {
 "name": "level196",
 "tapes": 25,
-"colors": 9,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 91.4,
 "avgLen": 3.66,
@@ -10820,8 +13129,8 @@
 "tapes": 25,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -12160,7 +14469,7 @@
 "gray1",
 "green1",
 "green2",
-"orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -13016,12 +15325,13 @@
 "level234": {
 "name": "level234",
 "tapes": 52,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -13722,7 +16032,6 @@
 "tapes": 46,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -13730,6 +16039,7 @@
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -13960,12 +16270,12 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
-"green1",
-"orange1",
+"gray1",
+"green2",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 65.2,
 "avgLen": 5.02,
@@ -13997,7 +16307,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 4,
+"order": null,
 "daily": [
 "2026-11-20"
 ],
@@ -14009,11 +16319,11 @@
 "tapes": 19,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -14060,15 +16370,15 @@
 "tapes": 14,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
-"orange1",
+"green2",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 74.1,
 "avgLen": 5.29,
@@ -14103,7 +16413,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 17,
+"order": null,
 "daily": [
 "2026-11-19"
 ],
@@ -14184,10 +16494,10 @@
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"yellow1"
 ],
 "pathLen": 72.4,
 "avgLen": 4.26,
@@ -14218,7 +16528,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 9,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -14291,7 +16601,7 @@
 "level255": {
 "name": "level255",
 "tapes": 61,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -14300,6 +16610,7 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -15357,13 +17668,13 @@
 "colors": 8,
 "colorList": [
 "blue1",
-"blue2",
+"brown1",
+"gray1",
+"green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 51.5,
 "avgLen": 5.72,
@@ -15398,7 +17709,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 11,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15416,9 +17727,9 @@
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
-"purple1",
 "red1",
 "yellow1"
 ],
@@ -15454,7 +17765,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 13,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15469,10 +17780,10 @@
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
-"green1",
+"green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -15516,7 +17827,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 14,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15532,11 +17843,11 @@
 "blue1",
 "blue2",
 "brown1",
-"gray1",
 "green1",
+"green2",
 "orange1",
+"pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 130.7,
@@ -15636,7 +17947,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 35,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15649,15 +17960,15 @@
 "tapes": 12,
 "colors": 9,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"yellow1"
+"red1"
 ],
 "pathLen": 83.8,
 "avgLen": 6.98,
@@ -15688,7 +17999,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 23,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15699,17 +18010,18 @@
 "level277": {
 "name": "level277",
 "tapes": 22,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 87.1,
 "avgLen": 3.96,
@@ -15742,7 +18054,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 36,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15800,7 +18112,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 41,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15815,9 +18127,9 @@
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -15856,7 +18168,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 12,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15872,8 +18184,8 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -15914,7 +18226,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 47,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -15973,7 +18285,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 34,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -16166,7 +18478,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 19,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -16232,7 +18544,7 @@
 ],
 "tut": null,
 "diff": 2,
-"order": 44,
+"order": null,
 "daily": [],
 "startHint": [
 6,
@@ -16249,11 +18561,11 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
+"brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -16293,7 +18605,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 22,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -16352,7 +18664,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 32,
+"order": null,
 "daily": [],
 "startHint": [
 5,
@@ -16558,7 +18870,7 @@
 "blue2",
 "brown1",
 "gray1",
-"green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -16613,12 +18925,12 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -16675,12 +18987,12 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 111.0,
 "avgLen": 4.44,
@@ -16792,11 +19104,11 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
-"pink1",
+"orange1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 84.0,
 "avgLen": 4.42,
@@ -16832,7 +19144,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 45,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -16890,7 +19202,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 43,
+"order": null,
 "daily": [],
 "startHint": [
 5,
@@ -16965,12 +19277,12 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
+"pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 101.3,
@@ -17118,7 +19430,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 50,
+"order": null,
 "daily": [],
 "startHint": [
 3,
@@ -17202,8 +19514,8 @@
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 116.1,
 "avgLen": 5.05,
@@ -17308,7 +19620,7 @@
 "delay": 0.0
 },
 "diff": 1,
-"order": 30,
+"order": null,
 "daily": [],
 "startHint": [
 1,
@@ -17322,8 +19634,9 @@
 "level304": {
 "name": "level304",
 "tapes": 27,
-"colors": 10,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -17438,7 +19751,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 49,
+"order": null,
 "daily": [],
 "startHint": [
 5,
@@ -17452,16 +19765,17 @@
 "level306": {
 "name": "level306",
 "tapes": 22,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
-"purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 101.1,
@@ -17641,8 +19955,8 @@
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 107.7,
 "avgLen": 3.59,
@@ -17698,10 +20012,10 @@
 "gray1",
 "green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 103.6,
 "avgLen": 4.5,
@@ -17856,7 +20170,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 20,
+"order": null,
 "daily": [],
 "startHint": [
 3,
@@ -17921,7 +20235,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 28,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -17932,9 +20246,10 @@
 "level314": {
 "name": "level314",
 "tapes": 23,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -18049,7 +20364,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 25,
+"order": null,
 "daily": [],
 "startHint": [
 3,
@@ -18067,8 +20382,8 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -18107,7 +20422,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 8,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18178,15 +20493,16 @@
 "level318": {
 "name": "level318",
 "tapes": 21,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
-"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -18220,7 +20536,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 37,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18237,8 +20553,8 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -18278,7 +20594,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 39,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18289,15 +20605,16 @@
 "level320": {
 "name": "level320",
 "tapes": 16,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
-"green1",
 "green2",
 "orange1",
+"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -18348,12 +20665,12 @@
 "blue2",
 "brown1",
 "gray1",
-"green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 115.7,
 "avgLen": 4.28,
@@ -18406,9 +20723,9 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -18445,7 +20762,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 24,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18459,13 +20776,13 @@
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
-"purple1",
 "red1",
 "yellow1"
 ],
@@ -18524,12 +20841,12 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -18574,7 +20891,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 46,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18715,12 +21032,13 @@
 "level327": {
 "name": "level327",
 "tapes": 20,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -18773,17 +21091,18 @@
 "level328": {
 "name": "level328",
 "tapes": 14,
-"colors": 9,
+"colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 50.3,
 "avgLen": 3.59,
@@ -18817,7 +21136,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 15,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18828,12 +21147,13 @@
 "level329": {
 "name": "level329",
 "tapes": 16,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -18878,7 +21198,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 48,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -18939,7 +21259,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 10,
+"order": null,
 "daily": [],
 "startHint": [
 3,
@@ -19000,7 +21320,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 29,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -19082,12 +21402,12 @@
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -19130,7 +21450,7 @@
 ],
 "tut": null,
 "diff": 1,
-"order": 16,
+"order": null,
 "daily": [],
 "startHint": [
 5,
@@ -19146,7 +21466,6 @@
 "tapes": 15,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -19155,7 +21474,8 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 133.9,
 "avgLen": 8.92,
@@ -19203,11 +21523,12 @@
 "level335": {
 "name": "level335",
 "tapes": 23,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -19248,7 +21569,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 27,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -19264,8 +21585,8 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -19306,7 +21627,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 31,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -19380,7 +21701,7 @@
 ],
 "tut": null,
 "diff": 2,
-"order": 26,
+"order": null,
 "daily": [],
 "startHint": [
 2,
@@ -19396,15 +21717,15 @@
 "tapes": 12,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 135.0,
 "avgLen": 11.25,
@@ -19451,12 +21772,12 @@
 "tapes": 13,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
-"orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -19491,7 +21812,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 21,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -19505,14 +21826,14 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 88.8,
 "avgLen": 4.68,
@@ -19568,15 +21889,15 @@
 "tapes": 15,
 "colors": 9,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
-"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 129.2,
 "avgLen": 8.61,
@@ -19693,7 +22014,6 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -19701,7 +22021,8 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 112.3,
 "avgLen": 5.11,
@@ -19754,8 +22075,8 @@
 "blue1",
 "blue2",
 "brown1",
-"gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -20540,9 +22861,9 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -20587,7 +22908,7 @@
 ],
 "tut": null,
 "diff": 0,
-"order": 7,
+"order": null,
 "daily": [],
 "startHint": null,
 "clearHint": [
@@ -21520,9 +23841,9 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -21643,6 +23964,7 @@
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -21650,7 +23972,6 @@
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 165.8,
@@ -21698,12 +24019,13 @@
 "level373": {
 "name": "level373",
 "tapes": 36,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
-"green1",
+"gray1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -22493,7 +24815,6 @@
 "tapes": 26,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -22501,6 +24822,7 @@
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -22918,14 +25240,14 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 114.1,
 "avgLen": 5.7,
@@ -23035,7 +25357,7 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"yellow1"
 ],
 "pathLen": 145.9,
 "avgLen": 4.86,
@@ -23400,12 +25722,12 @@
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -23467,7 +25789,7 @@
 "green2",
 "orange1",
 "pink1",
-"red1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 102.7,
@@ -23583,10 +25905,10 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -23835,14 +26157,14 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 96.7,
 "avgLen": 4.83,
@@ -23955,9 +26277,9 @@
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 165.4,
 "avgLen": 5.51,
@@ -24134,12 +26456,14 @@
 "level410": {
 "name": "level410",
 "tapes": 24,
-"colors": 7,
+"colors": 9,
 "colorList": [
-"blue1",
+"blue2",
+"brown1",
 "gray1",
 "green1",
-"pink1",
+"green2",
+"orange1",
 "purple1",
 "red1",
 "yellow1"
@@ -24190,14 +26514,15 @@
 "level411": {
 "name": "level411",
 "tapes": 26,
-"colors": 8,
+"colors": 9,
 "colorList": [
-"blue1",
 "blue2",
-"brown1",
+"gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -24503,14 +26828,14 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 104.5,
 "avgLen": 5.23,
@@ -24570,8 +26895,8 @@
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 96.5,
 "avgLen": 3.86,
@@ -24804,9 +27129,10 @@
 "level422": {
 "name": "level422",
 "tapes": 29,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -24862,8 +27188,8 @@
 "tapes": 27,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -24923,8 +27249,8 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -25043,7 +27369,6 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
@@ -25051,7 +27376,8 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 109.7,
 "avgLen": 4.99,
@@ -25098,11 +27424,12 @@
 "level429": {
 "name": "level429",
 "tapes": 25,
-"colors": 6,
+"colors": 7,
 "colorList": [
 "blue1",
-"brown1",
-"pink1",
+"blue2",
+"gray1",
+"green2",
 "purple1",
 "red1",
 "yellow1"
@@ -25156,12 +27483,12 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 121.3,
@@ -25280,10 +27607,10 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -25333,14 +27660,15 @@
 "level433": {
 "name": "level433",
 "tapes": 26,
-"colors": 8,
+"colors": 9,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
-"gray1",
+"green1",
+"green2",
 "orange1",
-"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -25393,7 +27721,7 @@
 "level434": {
 "name": "level434",
 "tapes": 26,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -25404,7 +27732,8 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 143.5,
 "avgLen": 5.52,
@@ -25518,10 +27847,10 @@
 "colors": 10,
 "colorList": [
 "blue1",
+"blue2",
 "brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -25830,7 +28159,7 @@
 "level442": {
 "name": "level442",
 "tapes": 28,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -25841,6 +28170,7 @@
 "orange1",
 "pink1",
 "purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 121.2,
@@ -25945,12 +28275,13 @@
 "level444": {
 "name": "level444",
 "tapes": 27,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -26256,14 +28587,15 @@
 "level449": {
 "name": "level449",
 "tapes": 21,
-"colors": 8,
+"colors": 9,
 "colorList": [
-"blue1",
+"blue2",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -26891,14 +29223,15 @@
 "level459": {
 "name": "level459",
 "tapes": 19,
-"colors": 8,
+"colors": 9,
 "colorList": [
-"blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -26955,12 +29288,12 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 91.0,
 "avgLen": 3.96,
@@ -27133,11 +29466,11 @@
 "brown1",
 "gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 95.0,
 "avgLen": 3.8,
@@ -27193,7 +29526,7 @@
 "brown1",
 "gray1",
 "green1",
-"green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -27381,7 +29714,7 @@
 "green1",
 "green2",
 "orange1",
-"pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -27559,15 +29892,17 @@
 "level470": {
 "name": "level470",
 "tapes": 59,
-"colors": 8,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
+"pink1",
 "purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 186.6,
@@ -27623,10 +29958,10 @@
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 113.8,
@@ -28051,10 +30386,11 @@
 "level478": {
 "name": "level478",
 "tapes": 35,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -28184,7 +30520,7 @@
 "level480": {
 "name": "level480",
 "tapes": 34,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -28192,6 +30528,7 @@
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -28240,14 +30577,15 @@
 "level481": {
 "name": "level481",
 "tapes": 17,
-"colors": 7,
+"colors": 8,
 "colorList": [
+"blue1",
+"blue2",
 "gray1",
-"green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 82.3,
@@ -28295,8 +30633,9 @@
 "level482": {
 "name": "level482",
 "tapes": 17,
-"colors": 10,
+"colors": 11,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
@@ -28536,7 +30875,7 @@
 "level486": {
 "name": "level486",
 "tapes": 34,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -28547,7 +30886,8 @@
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 135.0,
 "avgLen": 3.97,
@@ -28594,7 +30934,7 @@
 "level487": {
 "name": "level487",
 "tapes": 28,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -28604,6 +30944,7 @@
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -28660,12 +31001,13 @@
 "level488": {
 "name": "level488",
 "tapes": 26,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -29271,12 +31613,12 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -29330,7 +31672,7 @@
 "level499": {
 "name": "level499",
 "tapes": 22,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -29340,6 +31682,7 @@
 "green2",
 "orange1",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -29392,12 +31735,12 @@
 "tapes": 21,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
 "red1",
@@ -29450,16 +31793,17 @@
 "level501": {
 "name": "level501",
 "tapes": 21,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 131.7,
@@ -29518,9 +31862,9 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 93.9,
 "avgLen": 4.7,
@@ -29575,8 +31919,8 @@
 "colorList": [
 "blue1",
 "blue2",
-"green1",
-"green2",
+"brown1",
+"gray1",
 "orange1",
 "pink1",
 "purple1",
@@ -29639,10 +31983,10 @@
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 121.6,
@@ -29688,17 +32032,19 @@
 "level505": {
 "name": "level505",
 "tapes": 21,
-"colors": 9,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 103.7,
 "avgLen": 4.94,
@@ -29747,15 +32093,15 @@
 "tapes": 32,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 139.8,
 "avgLen": 4.37,
@@ -29807,13 +32153,13 @@
 "tapes": 25,
 "colors": 10,
 "colorList": [
+"blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -29935,9 +32281,9 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
-"green2",
-"orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -30061,7 +32407,7 @@
 "blue1",
 "blue2",
 "brown1",
-"green1",
+"gray1",
 "green2",
 "orange1",
 "pink1",
@@ -30239,14 +32585,14 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 142.6,
 "avgLen": 6.48,
@@ -30590,13 +32936,14 @@
 "level519": {
 "name": "level519",
 "tapes": 35,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -30785,11 +33132,12 @@
 "level524": {
 "name": "level524",
 "tapes": 92,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -30863,13 +33211,13 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 368.7,
 "avgLen": 5.19,
@@ -30930,7 +33278,7 @@
 "level526": {
 "name": "level526",
 "tapes": 20,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
@@ -30939,6 +33287,7 @@
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -30994,11 +33343,11 @@
 "blue1",
 "blue2",
 "brown1",
-"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
+"purple1",
+"red1",
 "yellow1"
 ],
 "pathLen": 85.8,
@@ -31056,8 +33405,8 @@
 "green2",
 "orange1",
 "pink1",
-"purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 110.0,
 "avgLen": 5.24,
@@ -31113,10 +33462,11 @@
 "level529": {
 "name": "level529",
 "tapes": 20,
-"colors": 9,
+"colors": 10,
 "colorList": [
-"blue1",
 "blue2",
+"brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -31246,12 +33596,12 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "pink1",
+"purple1",
 "red1",
 "yellow1"
 ],
@@ -31379,7 +33729,7 @@
 "colorList": [
 "blue1",
 "blue2",
-"gray1",
+"brown1",
 "green1",
 "green2",
 "orange1",
@@ -31563,13 +33913,13 @@
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
+"gray1",
 "green1",
-"green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 117.5,
 "avgLen": 4.9,
@@ -31678,11 +34028,12 @@
 "level538": {
 "name": "level538",
 "tapes": 22,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -32042,8 +34393,8 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -32160,13 +34511,13 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 91.4,
 "avgLen": 3.39,
@@ -32287,9 +34638,9 @@
 "tapes": 60,
 "colors": 10,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -32351,8 +34702,8 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -32902,15 +35253,15 @@
 "tapes": 25,
 "colors": 9,
 "colorList": [
-"blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 102.1,
 "avgLen": 4.08,
@@ -33026,12 +35377,12 @@
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 285.7,
@@ -33513,16 +35864,17 @@
 "level575": {
 "name": "level575",
 "tapes": 20,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
-"red1",
+"purple1",
 "yellow1"
 ],
 "pathLen": 133.9,
@@ -33627,12 +35979,12 @@
 "colors": 10,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
 "gray1",
 "green1",
 "green2",
 "orange1",
+"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -33678,11 +36030,12 @@
 "level578": {
 "name": "level578",
 "tapes": 112,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -33741,17 +36094,18 @@
 "level579": {
 "name": "level579",
 "tapes": 20,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
+"orange1",
 "pink1",
 "purple1",
-"red1",
-"yellow1"
+"red1"
 ],
 "pathLen": 97.7,
 "avgLen": 4.88,
@@ -33802,14 +36156,14 @@
 "colors": 9,
 "colorList": [
 "blue1",
-"blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
-"orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 122.8,
 "avgLen": 5.58,
@@ -33856,15 +36210,15 @@
 "tapes": 26,
 "colors": 9,
 "colorList": [
-"blue1",
-"blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1"
+"red1",
+"yellow1"
 ],
 "pathLen": 109.4,
 "avgLen": 4.21,
@@ -33910,12 +36264,13 @@
 "level582": {
 "name": "level582",
 "tapes": 38,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
@@ -33968,11 +36323,12 @@
 "level584": {
 "name": "level584",
 "tapes": 75,
-"colors": 9,
+"colors": 10,
 "colorList": [
 "blue1",
 "blue2",
-"green1",
+"brown1",
+"gray1",
 "green2",
 "orange1",
 "pink1",
@@ -34046,7 +36402,7 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -34778,11 +37134,12 @@
 "level598": {
 "name": "level598",
 "tapes": 25,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
 "brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
@@ -34994,10 +37351,11 @@
 "4022": {
 "name": "4022",
 "tapes": 24,
-"colors": 10,
+"colors": 11,
 "colorList": [
 "blue1",
 "blue2",
+"brown1",
 "gray1",
 "green1",
 "green2",
@@ -35055,13 +37413,14 @@
 "4023": {
 "name": "4023",
 "tapes": 23,
-"colors": 8,
+"colors": 9,
 "colorList": [
-"blue1",
+"blue2",
+"brown1",
+"gray1",
 "green1",
 "green2",
 "orange1",
-"pink1",
 "purple1",
 "red1",
 "yellow1"
@@ -35261,9 +37620,9 @@
 "colorList": [
 "blue1",
 "blue2",
-"brown1",
 "gray1",
 "green1",
+"green2",
 "orange1",
 "pink1",
 "purple1",
@@ -35320,11 +37679,11 @@
 "blue2",
 "brown1",
 "gray1",
+"green1",
 "green2",
 "orange1",
 "pink1",
 "purple1",
-"red1",
 "yellow1"
 ],
 "pathLen": 107.2,

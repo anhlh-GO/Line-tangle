@@ -57,8 +57,8 @@ wb = Workbook()
 ws = wb.active; ws.title = 'Summary'
 order = C['order']; M = [S[a] for a in order]
 import statistics as st
-lines = [('Line Tangle: Untangle Puzzle 1.1130 — level data', ''), ('Level assets in the build', len(S)), ('Main play order (scheme 4 "C")', len(order)),
-         ('Loop after level 400 restarts at', f'#{C["loopStart"]}'), ('Levels only in other schemes', len(set(S) - set(order))), ('Daily challenge days scheduled', len(C['daily'])), ('', '')]
+lines = [('Line Tangle: Untangle Puzzle 1.1130 — level data', ''), ('Level assets in the build', len(S)), ('Main play order (scheme 4 "C", first 50 replaced by new levels)', len(order)), ('New levels at the front', sum(1 for a in order[:50] if a.startswith('new'))),
+         ('Loop after level 400 restarts at', f'#{C["loopStart"]}'), ('Levels only in other schemes', len(set(n for n in S if not n.startswith('new')) - set(order))), ('Daily challenge days scheduled', len(C['daily'])), ('', '')]
 lines.append(('Difficulty (main order)', 'Levels | median tapes | median blockers | median rounds'))
 for d in range(4):
     g = [s for s in M if s['diff'] == d]
@@ -76,10 +76,38 @@ ws.column_dimensions['A'].width = 38; ws.column_dimensions['B'].width = 110
 
 sheet(wb.create_sheet('Main order (400)'), order, lambda i, nm: i)
 rest = sorted(set(S) - set(order), key=lambda s: int(''.join(c for c in s if c.isdigit())))
-allnames = sorted(S, key=lambda s: int(''.join(c for c in s if c.isdigit())))
+allnames = sorted([n for n in S if not n.startswith('new')], key=lambda s: int(''.join(c for c in s if c.isdigit())))
 sheet(wb.create_sheet('All 587 levels'), allnames, lambda i, nm: order.index(nm) + 1 if nm in order else '')
 dl = [('level%d' % lid, dte) for dte, lid in C['daily'] if ('level%d' % lid) in S]
 ws = wb.create_sheet('Daily challenge'); sheet(ws, [n for n, _ in dl], lambda i, nm: i)
 ws.cell(1, 1, 'Day')
+
+# ---- new levels (generated, replace main order 1-50)
+REP = json.load(open(D + '/new_report.json')) if os.path.exists(D + '/new_report.json') else {}
+SOLV = json.load(open(D + '/new_solver.json')) if os.path.exists(D + '/new_solver.json') else {}
+if REP:
+    ws = wb.create_sheet('New levels (50)', 1)
+    NC = [('#', 6), ('New image', 14), ('New level', 10), ('Shape', 12), ('Line style', 11), ('Difficulty', 11), ('Replaces', 10), ('Old image', 14),
+          ('Target tapes', 8), ('New tapes', 8), ('Δ tapes', 8), ('Target blockers', 9), ('New blockers', 9), ('Δ blockers', 9),
+          ('Target rounds', 8), ('New rounds', 8), ('Δ rounds', 8), ('Big balls', 7), ('Free at start', 8), ('Round sizes', 22), ('Crossings', 9), ('Tolerance', 9), ('Solver', 10)]
+    for c, (h, w) in enumerate(NC, 1):
+        cell = ws.cell(1, c, h); cell.fill = HDR; cell.font = HF; cell.alignment = Alignment(wrap_text=True, vertical='center', horizontal='center')
+        ws.column_dimensions[get_column_letter(c)].width = w
+    ws.row_dimensions[1].height = 32; ws.freeze_panes = 'D2'
+    pct = lambda a, b: f'{(a - b) / b * 100:+.0f}%' if b else ''
+    for r, i in enumerate(range(1, 51), 2):
+        e = REP.get(str(i))
+        if not e:
+            ws.cell(r, 1, i); ws.cell(r, 3, '(kept)'); ws.cell(r, 7, order[i - 1]); ws.row_dimensions[r].height = TH * 0.78
+            ws.add_image(thumb(order[i - 1]), f'H{r}'); continue
+        nm = e['name']; sN = S.get(nm, {}); (t, b, k) = e['target']; T, B, K = sN['tapes'], sN['edges'], sN['rounds']
+        vals = [i, None, nm, e['shape'], e.get('style', ''), DIFF[e['diff']], e['replaces'], None, t, T, pct(T, t), b, B, pct(B, b), k, K, pct(K, k),
+                e.get('big', 0), sN.get('free0', ''), ' '.join(map(str, sN.get('roundSizes', []))), sN.get('crossings', ''), '±%d%%' % round(e.get('tol', 0.15) * 100), SOLV.get(nm, 'ok')]
+        for c, v in enumerate(vals, 1):
+            cell = ws.cell(r, c, v); cell.alignment = Alignment(vertical='center', wrap_text=c == 20); cell.border = Border(bottom=thin)
+            if c == 6: cell.fill = PatternFill('solid', fgColor=DFILL[e['diff']])
+        ws.row_dimensions[r].height = TH * 0.78
+        ws.add_image(thumb(nm), f'B{r}'); ws.add_image(thumb(e['replaces']), f'H{r}')
+    if 'origOrder' in C: sheet(wb.create_sheet('Original main order (400)'), C['origOrder'], lambda i, nm: i)
 wb.save(ROOT + '/docs/Line-Tangle-Levels.xlsx')
 print('ok', os.path.getsize(ROOT + '/docs/Line-Tangle-Levels.xlsx'))

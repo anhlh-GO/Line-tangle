@@ -1,0 +1,929 @@
+{
+"1": {
+"name": "new1",
+"replaces": "level1",
+"shape": "smiley",
+"k": 0,
+"target": [
+3,
+0,
+1
+],
+"got": [
+3,
+0,
+1
+],
+"diff": 0,
+"big": 0,
+"style": "wave",
+"secs": 0,
+"exact": true,
+"within": true
+},
+"2": {
+"name": "new2",
+"replaces": "level2",
+"shape": "notes",
+"k": 0,
+"target": [
+4,
+2,
+2
+],
+"got": [
+5,
+3,
+3
+],
+"diff": 0,
+"big": 1,
+"style": "bow",
+"secs": 1,
+"exact": true,
+"within": true
+},
+"13": {
+"name": "new13",
+"replaces": "level272",
+"shape": "crown",
+"k": 9,
+"target": [
+17,
+20,
+6
+],
+"got": [
+19,
+19,
+7
+],
+"diff": 0,
+"big": 1,
+"style": "wave",
+"secs": 5,
+"exact": true,
+"within": true
+},
+"15": {
+"name": "new15",
+"replaces": "level328",
+"shape": "star",
+"k": 2,
+"target": [
+14,
+16,
+7
+],
+"got": [
+12,
+18,
+7
+],
+"diff": 0,
+"big": 2,
+"style": "swirl",
+"secs": 6,
+"exact": true,
+"within": true
+},
+"17": {
+"name": "new17",
+"replaces": "level251",
+"shape": "mushroom",
+"k": 16,
+"target": [
+14,
+22,
+8
+],
+"got": [
+16,
+19,
+8
+],
+"diff": 0,
+"big": 0,
+"style": "wave",
+"secs": 8,
+"exact": true,
+"within": true
+},
+"14": {
+"name": "new14",
+"replaces": "level273",
+"shape": "cactus",
+"k": 13,
+"target": [
+19,
+28,
+14
+],
+"got": [
+22,
+25,
+12
+],
+"diff": 0,
+"big": 4,
+"style": "bow",
+"secs": 26,
+"exact": true,
+"within": true
+},
+"9": {
+"name": "new9",
+"replaces": "level253",
+"shape": "apple",
+"k": 8,
+"target": [
+17,
+20,
+5
+],
+"got": [
+19,
+18,
+5
+],
+"diff": 0,
+"big": 1,
+"style": "wave",
+"secs": 31,
+"exact": true,
+"within": true
+},
+"21": {
+"name": "new21",
+"replaces": "level339",
+"shape": "glasses",
+"k": 6,
+"target": [
+13,
+14,
+6
+],
+"got": [
+14,
+14,
+6
+],
+"diff": 0,
+"big": 0,
+"style": "wave",
+"secs": 2,
+"exact": true,
+"within": true
+},
+"4": {
+"name": "new4",
+"replaces": "level249",
+"shape": "umbrella",
+"k": 5,
+"target": [
+13,
+16,
+6
+],
+"got": [
+15,
+15,
+5
+],
+"diff": 0,
+"big": 1,
+"style": "wave",
+"secs": 38,
+"exact": true,
+"within": true
+},
+"7": {
+"name": "new7",
+"replaces": "level355",
+"shape": "leaf",
+"k": 6,
+"target": [
+19,
+28,
+15
+],
+"got": [
+17,
+24,
+13
+],
+"diff": 0,
+"big": 0,
+"style": "swirl",
+"secs": 49,
+"exact": true,
+"within": true
+},
+"23": {
+"name": "new23",
+"replaces": "level276",
+"shape": "envelope",
+"k": 6,
+"target": [
+12,
+17,
+4
+],
+"got": [
+11,
+14,
+5
+],
+"diff": 0,
+"big": 0,
+"style": "swirl",
+"secs": 17,
+"exact": true,
+"within": true
+},
+"27": {
+"name": "new27",
+"replaces": "level335",
+"shape": "snowman",
+"k": 12,
+"target": [
+23,
+33,
+8
+],
+"got": [
+25,
+28,
+7
+],
+"diff": 0,
+"big": 0,
+"style": "swirl",
+"secs": 19,
+"exact": true,
+"within": true
+},
+"19": {
+"name": "new19",
+"replaces": "level284",
+"shape": "spiderweb",
+"k": 11,
+"target": [
+20,
+25,
+11
+],
+"got": [
+22,
+21,
+10
+],
+"diff": 0,
+"big": 1,
+"style": "swirl",
+"secs": 96,
+"exact": true,
+"within": true
+},
+"29": {
+"name": "new29",
+"replaces": "level331",
+"shape": "pear",
+"k": 10,
+"target": [
+16,
+20,
+9
+],
+"got": [
+18,
+18,
+8
+],
+"diff": 0,
+"big": 1,
+"style": "wave",
+"secs": 24,
+"exact": true,
+"within": true
+},
+"37": {
+"name": "new37",
+"replaces": "level318",
+"shape": "bottle",
+"k": 16,
+"target": [
+21,
+27,
+6
+],
+"got": [
+24,
+30,
+6
+],
+"diff": 0,
+"big": 0,
+"style": "wave",
+"secs": 21,
+"exact": true,
+"within": true
+},
+"47": {
+"name": "new47",
+"replaces": "level280",
+"shape": "watermelon",
+"k": 13,
+"target": [
+22,
+37,
+9
+],
+"got": [
+25,
+31,
+8
+],
+"diff": 0,
+"big": 1,
+"style": "swirl",
+"secs": 21,
+"exact": true,
+"within": true
+},
+"3": {
+"name": "new3",
+"replaces": "level3",
+"shape": "window",
+"k": 0,
+"target": [
+6,
+7,
+3
+],
+"got": [
+7,
+6,
+3
+],
+"diff": 0,
+"big": 0,
+"style": "swirl",
+"secs": 19,
+"exact": true,
+"within": true
+},
+"8": {
+"name": "new8",
+"replaces": "level316",
+"shape": "fish",
+"k": 9,
+"target": [
+12,
+15,
+7
+],
+"got": [
+11,
+14,
+6
+],
+"diff": 0,
+"big": 0,
+"style": "wave 0.15",
+"secs": 509,
+"exact": true,
+"within": true
+},
+"39": {
+"name": "new39",
+"replaces": "level319",
+"shape": "octopus",
+"k": 10,
+"target": [
+21,
+32,
+10
+],
+"got": [
+23,
+27,
+8
+],
+"diff": 0,
+"big": 0,
+"style": "swirl 0.26",
+"secs": 419,
+"exact": true,
+"within": true
+},
+"41": {
+"name": "new41",
+"replaces": "level278",
+"shape": "ghost",
+"k": 18,
+"target": [
+24,
+35,
+8
+],
+"got": [
+25,
+30,
+7
+],
+"diff": 0,
+"big": 0,
+"style": "bow 0.52",
+"secs": 548,
+"exact": true,
+"within": true
+},
+"12": {
+"name": "new12",
+"replaces": "level279",
+"shape": "rocket",
+"k": 18,
+"target": [
+26,
+34,
+6
+],
+"got": [
+30,
+31,
+5
+],
+"diff": 0,
+"big": 1,
+"style": "wave 0.26",
+"secs": 23,
+"exact": true,
+"within": true
+},
+"22": {
+"name": "new22",
+"replaces": "level286",
+"shape": "bird",
+"k": 19,
+"target": [
+20,
+29,
+9
+],
+"got": [
+23,
+25,
+8
+],
+"diff": 0,
+"big": 1,
+"style": "bow 0.43",
+"secs": 23,
+"exact": true,
+"within": true
+},
+"31": {
+"name": "new31",
+"replaces": "level336",
+"shape": "bulb",
+"k": 27,
+"target": [
+23,
+42,
+10
+],
+"got": [
+25,
+36,
+9
+],
+"diff": 0,
+"big": 0,
+"style": "swirl 0.27",
+"secs": 39,
+"exact": true,
+"within": true
+},
+"34": {
+"name": "new34",
+"replaces": "level281",
+"shape": "castle",
+"k": 39,
+"target": [
+28,
+46,
+8
+],
+"got": [
+30,
+39,
+9
+],
+"diff": 0,
+"big": 1,
+"style": "bow 0.36",
+"secs": 21,
+"exact": true,
+"within": true
+},
+"36": {
+"name": "new36",
+"replaces": "level277",
+"shape": "penguin",
+"k": 16,
+"target": [
+22,
+30,
+7
+],
+"got": [
+25,
+27,
+6
+],
+"diff": 0,
+"big": 0,
+"style": "wave 0.24",
+"secs": 24,
+"exact": true,
+"within": true
+},
+"35": {
+"name": "new35",
+"replaces": "level275",
+"shape": "bus",
+"k": 63,
+"target": [
+29,
+37,
+8
+],
+"got": [
+33,
+32,
+7
+],
+"diff": 0,
+"big": 1,
+"style": "wave 0.15",
+"secs": 345,
+"exact": true,
+"within": true
+},
+"43": {
+"name": "new43",
+"replaces": "level296",
+"shape": "cupcake",
+"k": 33,
+"target": [
+68,
+71,
+8
+],
+"got": [
+72,
+61,
+7
+],
+"diff": 1,
+"big": 2,
+"style": "swirl 0.29",
+"secs": 74,
+"exact": true,
+"within": true
+},
+"16": {
+"name": "new16",
+"replaces": "level333",
+"shape": "heart",
+"k": 21,
+"target": [
+56,
+96,
+13
+],
+"got": [
+50,
+82,
+12
+],
+"diff": 1,
+"big": 0,
+"style": "wave 0.26",
+"secs": 482,
+"exact": true,
+"within": true
+},
+"45": {
+"name": "new45",
+"replaces": "level295",
+"shape": "pine",
+"k": 11,
+"target": [
+19,
+28,
+10
+],
+"got": [
+21,
+28,
+9
+],
+"diff": 0,
+"big": 0,
+"style": "wave 0.26",
+"secs": 40,
+"exact": true,
+"within": true
+},
+"46": {
+"name": "new46",
+"replaces": "level324",
+"shape": "guitar",
+"k": 18,
+"target": [
+19,
+26,
+15
+],
+"got": [
+18,
+22,
+13
+],
+"diff": 0,
+"big": 2,
+"style": "bow 0.49",
+"secs": 247,
+"exact": true,
+"within": true
+},
+"11": {
+"name": "new11",
+"replaces": "level271",
+"shape": "bell",
+"k": 7,
+"target": [
+9,
+11,
+8
+],
+"got": [
+10,
+12,
+7
+],
+"diff": 0,
+"big": 1,
+"style": "swirl 0.23",
+"secs": 381,
+"exact": true,
+"within": true
+},
+"24": {
+"name": "new24",
+"replaces": "level322",
+"shape": "sailboat",
+"k": 12,
+"target": [
+14,
+18,
+7
+],
+"got": [
+16,
+16,
+7
+],
+"diff": 0,
+"big": 0,
+"style": "wave 0.25",
+"secs": 12
+},
+"10": {
+"name": "new10",
+"replaces": "level330",
+"shape": "butterfly",
+"k": 36,
+"target": [
+51,
+73,
+10
+],
+"got": [
+50,
+62,
+9
+],
+"diff": 1,
+"big": 1,
+"style": "bow 0.53",
+"secs": 46
+},
+"20": {
+"name": "new20",
+"replaces": "level312",
+"shape": "pumpkin",
+"k": 69,
+"target": [
+69,
+87,
+13
+],
+"got": [
+60,
+80,
+11
+],
+"diff": 1,
+"big": 1,
+"style": "wave 0.26",
+"secs": 92
+},
+"25": {
+"name": "new25",
+"replaces": "level315",
+"shape": "turtle",
+"k": 33,
+"target": [
+62,
+101,
+21
+],
+"got": [
+61,
+87,
+19
+],
+"diff": 1,
+"big": 0,
+"style": "wave 0.29",
+"secs": 463
+},
+"26": {
+"name": "new26",
+"replaces": "level337",
+"shape": "mug",
+"k": 24,
+"target": [
+76,
+132,
+24
+],
+"got": [
+86,
+113,
+22
+],
+"diff": 2,
+"big": 0,
+"style": "bow 0.49",
+"secs": 676
+},
+"49": {
+"name": "new49",
+"replaces": "level305",
+"shape": "kite",
+"k": 24,
+"target": [
+70,
+100,
+17
+],
+"got": [
+66,
+85,
+15
+],
+"diff": 1,
+"big": 1,
+"style": "wave 0.27",
+"secs": 429
+},
+"50": {
+"name": "new50",
+"replaces": "level300",
+"shape": "gem",
+"k": 30,
+"target": [
+78,
+98,
+6
+],
+"got": [
+68,
+93,
+7
+],
+"diff": 1,
+"big": 1,
+"style": "bow 0.36",
+"secs": 568
+},
+"28": {
+"name": "new28",
+"replaces": "level313",
+"shape": "tree",
+"k": 10,
+"target": [
+30,
+40,
+13
+],
+"got": [
+28,
+32,
+10
+],
+"diff": 0,
+"big": 0,
+"style": "",
+"secs": 67,
+"tol": 0.25
+},
+"30": {
+"name": "new30",
+"replaces": "level303",
+"shape": "shield",
+"k": 33,
+"target": [
+61,
+99,
+11
+],
+"got": [
+65,
+77,
+11
+],
+"diff": 1,
+"big": 2,
+"style": "",
+"secs": 197,
+"tol": 0.25
+},
+"44": {
+"name": "new44",
+"replaces": "level285",
+"shape": "icecream",
+"k": 39,
+"target": [
+113,
+149,
+15
+],
+"got": [
+107,
+113,
+14
+],
+"diff": 2,
+"big": 1,
+"style": "",
+"secs": 1156,
+"tol": 0.25
+},
+"32": {
+"name": "new32",
+"replaces": "level287",
+"shape": "robot",
+"k": 36,
+"target": [
+53,
+67,
+8
+],
+"got": [
+57,
+58,
+7
+],
+"diff": 1,
+"big": 6,
+"style": "",
+"secs": 1368,
+"tol": 0.25
+},
+"48": {
+"name": "new48",
+"replaces": "level329",
+"shape": "snail",
+"k": 18,
+"target": [
+16,
+22,
+13
+],
+"got": [
+16,
+20,
+11
+],
+"diff": 0,
+"big": 0,
+"style": "wave 0.26",
+"secs": 63,
+"tol": 0.25
+}
+}

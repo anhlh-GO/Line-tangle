@@ -7,3 +7,5 @@ android/app/build/
 android/app/src/main/assets/www/
 android/local.properties
 docs/levels/img/
+docs/levels/gen*.log
+tools/*.out
